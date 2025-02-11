@@ -1,0 +1,6502 @@
+[
+    {
+        "user_id": 1,
+        "date_range": "past_2_weeks",
+        "total_budget": 1540.42,
+        "total_expenses": 1675.36,
+        "categories": {
+            "Essentials": 357.38,
+            "Food & Entertainment": 484.42,
+            "Shopping": 332.0,
+            "Health & Wellness": 191.63,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 1,
+        "date_range": "past_month",
+        "total_budget": 4776.75,
+        "total_expenses": 6799.84,
+        "categories": {
+            "Essentials": 1344.96,
+            "Food & Entertainment": 719.71,
+            "Shopping": 902.17,
+            "Health & Wellness": 948.59,
+            "Other": 1589.91
+        }
+    },
+    {
+        "user_id": 1,
+        "date_range": "past_3_months",
+        "total_budget": 1506.92,
+        "total_expenses": 2213.57,
+        "categories": {
+            "Essentials": 319.1,
+            "Food & Entertainment": 601.85,
+            "Shopping": 414.55,
+            "Health & Wellness": 652.94,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 1,
+        "date_range": "past_6_months",
+        "total_budget": 4523.36,
+        "total_expenses": 5931.3,
+        "categories": {
+            "Essentials": 692.64,
+            "Food & Entertainment": 595.08,
+            "Shopping": 1398.78,
+            "Health & Wellness": 611.72,
+            "Other": 1295.12
+        }
+    },
+    {
+        "user_id": 1,
+        "date_range": "past_year",
+        "total_budget": 7960.38,
+        "total_expenses": 4868.71,
+        "categories": {
+            "Essentials": 879.19,
+            "Food & Entertainment": 719.02,
+            "Shopping": 1257.85,
+            "Health & Wellness": 520.18,
+            "Other": 89.17
+        }
+    },
+    {
+        "user_id": 2,
+        "date_range": "past_2_weeks",
+        "total_budget": 4393.11,
+        "total_expenses": 3612.56,
+        "categories": {
+            "Essentials": 819.83,
+            "Food & Entertainment": 522.98,
+            "Shopping": 727.33,
+            "Health & Wellness": 608.01,
+            "Other": 79.75
+        }
+    },
+    {
+        "user_id": 2,
+        "date_range": "past_month",
+        "total_budget": 1117.99,
+        "total_expenses": 1135.11,
+        "categories": {
+            "Essentials": 218.19,
+            "Food & Entertainment": 178.37,
+            "Shopping": 273.51,
+            "Health & Wellness": 235.11,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 2,
+        "date_range": "past_3_months",
+        "total_budget": 5317.79,
+        "total_expenses": 6653.37,
+        "categories": {
+            "Essentials": 1638.18,
+            "Food & Entertainment": 1031.02,
+            "Shopping": 1814.61,
+            "Health & Wellness": 1388.92,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 2,
+        "date_range": "past_6_months",
+        "total_budget": 5398.82,
+        "total_expenses": 3406.9,
+        "categories": {
+            "Essentials": 869.2,
+            "Food & Entertainment": 555.5,
+            "Shopping": 788.32,
+            "Health & Wellness": 632.7,
+            "Other": 74.07
+        }
+    },
+    {
+        "user_id": 2,
+        "date_range": "past_year",
+        "total_budget": 7160.29,
+        "total_expenses": 9926.63,
+        "categories": {
+            "Essentials": 2827.26,
+            "Food & Entertainment": 1130.35,
+            "Shopping": 2176.81,
+            "Health & Wellness": 1462.32,
+            "Other": 123.86
+        }
+    },
+    {
+        "user_id": 3,
+        "date_range": "past_2_weeks",
+        "total_budget": 1275.46,
+        "total_expenses": 1838.14,
+        "categories": {
+            "Essentials": 440.96,
+            "Food & Entertainment": 227.76,
+            "Shopping": 193.3,
+            "Health & Wellness": 221.41,
+            "Other": 468.92
+        }
+    },
+    {
+        "user_id": 3,
+        "date_range": "past_month",
+        "total_budget": 1640.35,
+        "total_expenses": 1746.09,
+        "categories": {
+            "Essentials": 324.56,
+            "Food & Entertainment": 233.28,
+            "Shopping": 398.87,
+            "Health & Wellness": 288.89,
+            "Other": 242.63
+        }
+    },
+    {
+        "user_id": 3,
+        "date_range": "past_3_months",
+        "total_budget": 4402.47,
+        "total_expenses": 2632.14,
+        "categories": {
+            "Essentials": 773.92,
+            "Food & Entertainment": 663.88,
+            "Shopping": 515.11,
+            "Health & Wellness": 267.85,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 3,
+        "date_range": "past_6_months",
+        "total_budget": 2652.44,
+        "total_expenses": 2909.07,
+        "categories": {
+            "Essentials": 779.38,
+            "Food & Entertainment": 466.49,
+            "Shopping": 814.55,
+            "Health & Wellness": 821.98,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 3,
+        "date_range": "past_year",
+        "total_budget": 5786.35,
+        "total_expenses": 6683.94,
+        "categories": {
+            "Essentials": 1603.0,
+            "Food & Entertainment": 1109.33,
+            "Shopping": 963.86,
+            "Health & Wellness": 702.86,
+            "Other": 626.27
+        }
+    },
+    {
+        "user_id": 4,
+        "date_range": "past_2_weeks",
+        "total_budget": 7619.54,
+        "total_expenses": 10097.22,
+        "categories": {
+            "Essentials": 1026.56,
+            "Food & Entertainment": 1495.89,
+            "Shopping": 1890.66,
+            "Health & Wellness": 2002.23,
+            "Other": 1276.47
+        }
+    },
+    {
+        "user_id": 4,
+        "date_range": "past_month",
+        "total_budget": 2572.3,
+        "total_expenses": 1964.63,
+        "categories": {
+            "Essentials": 444.93,
+            "Food & Entertainment": 499.37,
+            "Shopping": 572.31,
+            "Health & Wellness": 443.43,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 4,
+        "date_range": "past_3_months",
+        "total_budget": 9865.13,
+        "total_expenses": 6616.3,
+        "categories": {
+            "Essentials": 1668.58,
+            "Food & Entertainment": 1042.06,
+            "Shopping": 1883.5,
+            "Health & Wellness": 693.4,
+            "Other": 601.99
+        }
+    },
+    {
+        "user_id": 4,
+        "date_range": "past_6_months",
+        "total_budget": 8895.96,
+        "total_expenses": 10169.5,
+        "categories": {
+            "Essentials": 2800.64,
+            "Food & Entertainment": 2558.2,
+            "Shopping": 2098.3,
+            "Health & Wellness": 2572.94,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 4,
+        "date_range": "past_year",
+        "total_budget": 6777.65,
+        "total_expenses": 5234.64,
+        "categories": {
+            "Essentials": 1413.21,
+            "Food & Entertainment": 1476.01,
+            "Shopping": 1281.67,
+            "Health & Wellness": 1419.25,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 5,
+        "date_range": "past_2_weeks",
+        "total_budget": 7837.44,
+        "total_expenses": 10320.47,
+        "categories": {
+            "Essentials": 1640.43,
+            "Food & Entertainment": 1515.74,
+            "Shopping": 1995.72,
+            "Health & Wellness": 2226.79,
+            "Other": 700.12
+        }
+    },
+    {
+        "user_id": 5,
+        "date_range": "past_month",
+        "total_budget": 3146.03,
+        "total_expenses": 2144.91,
+        "categories": {
+            "Essentials": 584.32,
+            "Food & Entertainment": 501.05,
+            "Shopping": 550.96,
+            "Health & Wellness": 600.71,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 5,
+        "date_range": "past_3_months",
+        "total_budget": 7839.26,
+        "total_expenses": 7689.08,
+        "categories": {
+            "Essentials": 1485.78,
+            "Food & Entertainment": 1137.36,
+            "Shopping": 1631.66,
+            "Health & Wellness": 1585.64,
+            "Other": 813.26
+        }
+    },
+    {
+        "user_id": 5,
+        "date_range": "past_6_months",
+        "total_budget": 2997.9,
+        "total_expenses": 1933.8,
+        "categories": {
+            "Essentials": 340.13,
+            "Food & Entertainment": 568.46,
+            "Shopping": 577.49,
+            "Health & Wellness": 326.92,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 5,
+        "date_range": "past_year",
+        "total_budget": 8938.22,
+        "total_expenses": 6441.35,
+        "categories": {
+            "Essentials": 1063.57,
+            "Food & Entertainment": 1738.23,
+            "Shopping": 1686.45,
+            "Health & Wellness": 1560.58,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 6,
+        "date_range": "past_2_weeks",
+        "total_budget": 3422.15,
+        "total_expenses": 4934.8,
+        "categories": {
+            "Essentials": 1056.59,
+            "Food & Entertainment": 635.86,
+            "Shopping": 802.74,
+            "Health & Wellness": 664.61,
+            "Other": 335.72
+        }
+    },
+    {
+        "user_id": 6,
+        "date_range": "past_month",
+        "total_budget": 1832.87,
+        "total_expenses": 1723.67,
+        "categories": {
+            "Essentials": 222.01,
+            "Food & Entertainment": 514.16,
+            "Shopping": 429.71,
+            "Health & Wellness": 449.5,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 6,
+        "date_range": "past_3_months",
+        "total_budget": 7811.23,
+        "total_expenses": 4636.19,
+        "categories": {
+            "Essentials": 1296.81,
+            "Food & Entertainment": 1232.38,
+            "Shopping": 902.72,
+            "Health & Wellness": 484.14,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 6,
+        "date_range": "past_6_months",
+        "total_budget": 2126.77,
+        "total_expenses": 2317.81,
+        "categories": {
+            "Essentials": 404.88,
+            "Food & Entertainment": 356.82,
+            "Shopping": 618.55,
+            "Health & Wellness": 539.84,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 6,
+        "date_range": "past_year",
+        "total_budget": 8401.0,
+        "total_expenses": 6378.38,
+        "categories": {
+            "Essentials": 844.01,
+            "Food & Entertainment": 736.0,
+            "Shopping": 1395.76,
+            "Health & Wellness": 1078.33,
+            "Other": 708.14
+        }
+    },
+    {
+        "user_id": 7,
+        "date_range": "past_2_weeks",
+        "total_budget": 9681.62,
+        "total_expenses": 11893.88,
+        "categories": {
+            "Essentials": 1829.51,
+            "Food & Entertainment": 3120.4,
+            "Shopping": 2019.28,
+            "Health & Wellness": 2716.76,
+            "Other": 464.99
+        }
+    },
+    {
+        "user_id": 7,
+        "date_range": "past_month",
+        "total_budget": 5663.51,
+        "total_expenses": 4899.55,
+        "categories": {
+            "Essentials": 1164.2,
+            "Food & Entertainment": 577.53,
+            "Shopping": 1252.81,
+            "Health & Wellness": 842.17,
+            "Other": 360.81
+        }
+    },
+    {
+        "user_id": 7,
+        "date_range": "past_3_months",
+        "total_budget": 5898.47,
+        "total_expenses": 6627.45,
+        "categories": {
+            "Essentials": 1121.95,
+            "Food & Entertainment": 1535.72,
+            "Shopping": 1571.57,
+            "Health & Wellness": 1869.25,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 7,
+        "date_range": "past_6_months",
+        "total_budget": 4765.71,
+        "total_expenses": 3342.89,
+        "categories": {
+            "Essentials": 418.54,
+            "Food & Entertainment": 881.3,
+            "Shopping": 649.44,
+            "Health & Wellness": 976.84,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 7,
+        "date_range": "past_year",
+        "total_budget": 6948.11,
+        "total_expenses": 7949.88,
+        "categories": {
+            "Essentials": 854.81,
+            "Food & Entertainment": 1836.98,
+            "Shopping": 1891.15,
+            "Health & Wellness": 1105.94,
+            "Other": 291.19
+        }
+    },
+    {
+        "user_id": 8,
+        "date_range": "past_2_weeks",
+        "total_budget": 3440.87,
+        "total_expenses": 4628.19,
+        "categories": {
+            "Essentials": 768.86,
+            "Food & Entertainment": 1162.97,
+            "Shopping": 1222.07,
+            "Health & Wellness": 1271.16,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 8,
+        "date_range": "past_month",
+        "total_budget": 1424.37,
+        "total_expenses": 1314.86,
+        "categories": {
+            "Essentials": 386.95,
+            "Food & Entertainment": 332.92,
+            "Shopping": 185.71,
+            "Health & Wellness": 323.2,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 8,
+        "date_range": "past_3_months",
+        "total_budget": 8379.45,
+        "total_expenses": 8929.83,
+        "categories": {
+            "Essentials": 2475.47,
+            "Food & Entertainment": 896.51,
+            "Shopping": 2272.81,
+            "Health & Wellness": 1854.38,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 8,
+        "date_range": "past_6_months",
+        "total_budget": 8617.06,
+        "total_expenses": 9244.5,
+        "categories": {
+            "Essentials": 1758.98,
+            "Food & Entertainment": 2528.91,
+            "Shopping": 2224.15,
+            "Health & Wellness": 1323.94,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 8,
+        "date_range": "past_year",
+        "total_budget": 9681.39,
+        "total_expenses": 4985.5,
+        "categories": {
+            "Essentials": 908.08,
+            "Food & Entertainment": 1399.3,
+            "Shopping": 509.95,
+            "Health & Wellness": 1110.35,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 9,
+        "date_range": "past_2_weeks",
+        "total_budget": 1439.11,
+        "total_expenses": 1555.54,
+        "categories": {
+            "Essentials": 338.45,
+            "Food & Entertainment": 409.95,
+            "Shopping": 428.48,
+            "Health & Wellness": 404.65,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 9,
+        "date_range": "past_month",
+        "total_budget": 7440.06,
+        "total_expenses": 7272.21,
+        "categories": {
+            "Essentials": 734.81,
+            "Food & Entertainment": 1295.0,
+            "Shopping": 1840.17,
+            "Health & Wellness": 1105.17,
+            "Other": 1126.69
+        }
+    },
+    {
+        "user_id": 9,
+        "date_range": "past_3_months",
+        "total_budget": 4843.84,
+        "total_expenses": 2778.95,
+        "categories": {
+            "Essentials": 587.04,
+            "Food & Entertainment": 569.22,
+            "Shopping": 342.1,
+            "Health & Wellness": 325.67,
+            "Other": 186.94
+        }
+    },
+    {
+        "user_id": 9,
+        "date_range": "past_6_months",
+        "total_budget": 5193.94,
+        "total_expenses": 5746.23,
+        "categories": {
+            "Essentials": 1409.59,
+            "Food & Entertainment": 1162.85,
+            "Shopping": 664.4,
+            "Health & Wellness": 1166.81,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 9,
+        "date_range": "past_year",
+        "total_budget": 9891.57,
+        "total_expenses": 7963.26,
+        "categories": {
+            "Essentials": 2135.21,
+            "Food & Entertainment": 1735.83,
+            "Shopping": 1930.26,
+            "Health & Wellness": 918.43,
+            "Other": 271.34
+        }
+    },
+    {
+        "user_id": 10,
+        "date_range": "past_2_weeks",
+        "total_budget": 8325.01,
+        "total_expenses": 5877.73,
+        "categories": {
+            "Essentials": 1465.23,
+            "Food & Entertainment": 594.4,
+            "Shopping": 1504.39,
+            "Health & Wellness": 1277.42,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 10,
+        "date_range": "past_month",
+        "total_budget": 7416.15,
+        "total_expenses": 8092.6,
+        "categories": {
+            "Essentials": 2413.64,
+            "Food & Entertainment": 2075.56,
+            "Shopping": 1827.76,
+            "Health & Wellness": 1226.77,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 10,
+        "date_range": "past_3_months",
+        "total_budget": 9251.88,
+        "total_expenses": 11456.04,
+        "categories": {
+            "Essentials": 2098.59,
+            "Food & Entertainment": 2716.48,
+            "Shopping": 2032.13,
+            "Health & Wellness": 1167.57,
+            "Other": 337.22
+        }
+    },
+    {
+        "user_id": 10,
+        "date_range": "past_6_months",
+        "total_budget": 5841.6,
+        "total_expenses": 4012.3,
+        "categories": {
+            "Essentials": 1200.57,
+            "Food & Entertainment": 1040.18,
+            "Shopping": 1146.28,
+            "Health & Wellness": 843.97,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 10,
+        "date_range": "past_year",
+        "total_budget": 4772.66,
+        "total_expenses": 4571.84,
+        "categories": {
+            "Essentials": 735.14,
+            "Food & Entertainment": 1294.35,
+            "Shopping": 1151.19,
+            "Health & Wellness": 1221.61,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 11,
+        "date_range": "past_2_weeks",
+        "total_budget": 9353.56,
+        "total_expenses": 13125.79,
+        "categories": {
+            "Essentials": 1500.59,
+            "Food & Entertainment": 2126.29,
+            "Shopping": 3546.79,
+            "Health & Wellness": 2979.42,
+            "Other": 1193.74
+        }
+    },
+    {
+        "user_id": 11,
+        "date_range": "past_month",
+        "total_budget": 1985.95,
+        "total_expenses": 2350.61,
+        "categories": {
+            "Essentials": 618.76,
+            "Food & Entertainment": 585.28,
+            "Shopping": 702.08,
+            "Health & Wellness": 530.6,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 11,
+        "date_range": "past_3_months",
+        "total_budget": 7868.84,
+        "total_expenses": 7987.74,
+        "categories": {
+            "Essentials": 1131.88,
+            "Food & Entertainment": 1731.92,
+            "Shopping": 2194.04,
+            "Health & Wellness": 1928.96,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 11,
+        "date_range": "past_6_months",
+        "total_budget": 6817.85,
+        "total_expenses": 8188.57,
+        "categories": {
+            "Essentials": 1183.38,
+            "Food & Entertainment": 1458.26,
+            "Shopping": 1904.35,
+            "Health & Wellness": 1884.03,
+            "Other": 555.67
+        }
+    },
+    {
+        "user_id": 11,
+        "date_range": "past_year",
+        "total_budget": 6196.57,
+        "total_expenses": 6271.47,
+        "categories": {
+            "Essentials": 684.72,
+            "Food & Entertainment": 758.57,
+            "Shopping": 1713.94,
+            "Health & Wellness": 1784.64,
+            "Other": 331.74
+        }
+    },
+    {
+        "user_id": 12,
+        "date_range": "past_2_weeks",
+        "total_budget": 4317.34,
+        "total_expenses": 5516.1,
+        "categories": {
+            "Essentials": 1243.96,
+            "Food & Entertainment": 1075.34,
+            "Shopping": 1160.49,
+            "Health & Wellness": 1175.67,
+            "Other": 104.55
+        }
+    },
+    {
+        "user_id": 12,
+        "date_range": "past_month",
+        "total_budget": 4266.32,
+        "total_expenses": 4997.25,
+        "categories": {
+            "Essentials": 629.97,
+            "Food & Entertainment": 884.36,
+            "Shopping": 1139.49,
+            "Health & Wellness": 601.86,
+            "Other": 842.1
+        }
+    },
+    {
+        "user_id": 12,
+        "date_range": "past_3_months",
+        "total_budget": 9441.73,
+        "total_expenses": 7470.84,
+        "categories": {
+            "Essentials": 1650.7,
+            "Food & Entertainment": 1573.09,
+            "Shopping": 1071.95,
+            "Health & Wellness": 1596.05,
+            "Other": 238.99
+        }
+    },
+    {
+        "user_id": 12,
+        "date_range": "past_6_months",
+        "total_budget": 1436.6,
+        "total_expenses": 782.88,
+        "categories": {
+            "Essentials": 129.8,
+            "Food & Entertainment": 160.37,
+            "Shopping": 88.55,
+            "Health & Wellness": 184.29,
+            "Other": 126.51
+        }
+    },
+    {
+        "user_id": 12,
+        "date_range": "past_year",
+        "total_budget": 2844.48,
+        "total_expenses": 3631.46,
+        "categories": {
+            "Essentials": 563.65,
+            "Food & Entertainment": 686.59,
+            "Shopping": 574.33,
+            "Health & Wellness": 617.75,
+            "Other": 636.48
+        }
+    },
+    {
+        "user_id": 13,
+        "date_range": "past_2_weeks",
+        "total_budget": 5766.35,
+        "total_expenses": 6190.23,
+        "categories": {
+            "Essentials": 1355.81,
+            "Food & Entertainment": 925.2,
+            "Shopping": 705.18,
+            "Health & Wellness": 863.13,
+            "Other": 811.96
+        }
+    },
+    {
+        "user_id": 13,
+        "date_range": "past_month",
+        "total_budget": 5318.14,
+        "total_expenses": 3695.52,
+        "categories": {
+            "Essentials": 793.61,
+            "Food & Entertainment": 1033.84,
+            "Shopping": 457.35,
+            "Health & Wellness": 501.76,
+            "Other": 202.63
+        }
+    },
+    {
+        "user_id": 13,
+        "date_range": "past_3_months",
+        "total_budget": 3349.52,
+        "total_expenses": 3596.09,
+        "categories": {
+            "Essentials": 1021.97,
+            "Food & Entertainment": 392.06,
+            "Shopping": 491.66,
+            "Health & Wellness": 396.22,
+            "Other": 671.92
+        }
+    },
+    {
+        "user_id": 13,
+        "date_range": "past_6_months",
+        "total_budget": 3697.62,
+        "total_expenses": 5257.33,
+        "categories": {
+            "Essentials": 764.17,
+            "Food & Entertainment": 1346.08,
+            "Shopping": 766.9,
+            "Health & Wellness": 829.38,
+            "Other": 948.58
+        }
+    },
+    {
+        "user_id": 13,
+        "date_range": "past_year",
+        "total_budget": 7819.26,
+        "total_expenses": 5104.69,
+        "categories": {
+            "Essentials": 700.34,
+            "Food & Entertainment": 972.71,
+            "Shopping": 682.01,
+            "Health & Wellness": 685.34,
+            "Other": 994.81
+        }
+    },
+    {
+        "user_id": 14,
+        "date_range": "past_2_weeks",
+        "total_budget": 2213.86,
+        "total_expenses": 2435.47,
+        "categories": {
+            "Essentials": 355.46,
+            "Food & Entertainment": 637.16,
+            "Shopping": 431.73,
+            "Health & Wellness": 382.95,
+            "Other": 51.32
+        }
+    },
+    {
+        "user_id": 14,
+        "date_range": "past_month",
+        "total_budget": 5467.14,
+        "total_expenses": 5362.6,
+        "categories": {
+            "Essentials": 835.36,
+            "Food & Entertainment": 1074.64,
+            "Shopping": 1114.53,
+            "Health & Wellness": 1277.71,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 14,
+        "date_range": "past_3_months",
+        "total_budget": 8067.08,
+        "total_expenses": 10402.4,
+        "categories": {
+            "Essentials": 2067.72,
+            "Food & Entertainment": 1885.67,
+            "Shopping": 2610.92,
+            "Health & Wellness": 1622.76,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 14,
+        "date_range": "past_6_months",
+        "total_budget": 6711.93,
+        "total_expenses": 9578.91,
+        "categories": {
+            "Essentials": 1554.95,
+            "Food & Entertainment": 2331.97,
+            "Shopping": 2633.98,
+            "Health & Wellness": 2361.14,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 14,
+        "date_range": "past_year",
+        "total_budget": 9327.34,
+        "total_expenses": 13153.66,
+        "categories": {
+            "Essentials": 2478.64,
+            "Food & Entertainment": 1670.14,
+            "Shopping": 2590.35,
+            "Health & Wellness": 2327.3,
+            "Other": 1498.45
+        }
+    },
+    {
+        "user_id": 15,
+        "date_range": "past_2_weeks",
+        "total_budget": 4758.74,
+        "total_expenses": 6375.7,
+        "categories": {
+            "Essentials": 1149.36,
+            "Food & Entertainment": 1749.59,
+            "Shopping": 1204.74,
+            "Health & Wellness": 1230.8,
+            "Other": 127.2
+        }
+    },
+    {
+        "user_id": 15,
+        "date_range": "past_month",
+        "total_budget": 6157.19,
+        "total_expenses": 7793.67,
+        "categories": {
+            "Essentials": 1538.56,
+            "Food & Entertainment": 1539.34,
+            "Shopping": 1076.11,
+            "Health & Wellness": 1154.95,
+            "Other": 1532.66
+        }
+    },
+    {
+        "user_id": 15,
+        "date_range": "past_3_months",
+        "total_budget": 5451.54,
+        "total_expenses": 7426.86,
+        "categories": {
+            "Essentials": 889.92,
+            "Food & Entertainment": 2132.72,
+            "Shopping": 876.34,
+            "Health & Wellness": 1676.15,
+            "Other": 1013.86
+        }
+    },
+    {
+        "user_id": 15,
+        "date_range": "past_6_months",
+        "total_budget": 2947.9,
+        "total_expenses": 3629.83,
+        "categories": {
+            "Essentials": 585.63,
+            "Food & Entertainment": 863.94,
+            "Shopping": 472.32,
+            "Health & Wellness": 931.6,
+            "Other": 351.39
+        }
+    },
+    {
+        "user_id": 15,
+        "date_range": "past_year",
+        "total_budget": 3195.17,
+        "total_expenses": 2902.05,
+        "categories": {
+            "Essentials": 425.25,
+            "Food & Entertainment": 638.84,
+            "Shopping": 456.3,
+            "Health & Wellness": 541.65,
+            "Other": 80.46
+        }
+    },
+    {
+        "user_id": 16,
+        "date_range": "past_2_weeks",
+        "total_budget": 3730.14,
+        "total_expenses": 2036.95,
+        "categories": {
+            "Essentials": 449.52,
+            "Food & Entertainment": 352.42,
+            "Shopping": 521.79,
+            "Health & Wellness": 236.9,
+            "Other": 151.23
+        }
+    },
+    {
+        "user_id": 16,
+        "date_range": "past_month",
+        "total_budget": 4677.32,
+        "total_expenses": 6504.82,
+        "categories": {
+            "Essentials": 1536.54,
+            "Food & Entertainment": 1640.26,
+            "Shopping": 1673.64,
+            "Health & Wellness": 1316.42,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 16,
+        "date_range": "past_3_months",
+        "total_budget": 9831.22,
+        "total_expenses": 11804.35,
+        "categories": {
+            "Essentials": 1936.07,
+            "Food & Entertainment": 3343.33,
+            "Shopping": 2778.1,
+            "Health & Wellness": 1389.71,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 16,
+        "date_range": "past_6_months",
+        "total_budget": 4881.72,
+        "total_expenses": 5115.37,
+        "categories": {
+            "Essentials": 913.21,
+            "Food & Entertainment": 1319.26,
+            "Shopping": 682.27,
+            "Health & Wellness": 1101.68,
+            "Other": 97.3
+        }
+    },
+    {
+        "user_id": 16,
+        "date_range": "past_year",
+        "total_budget": 7693.97,
+        "total_expenses": 5084.33,
+        "categories": {
+            "Essentials": 707.44,
+            "Food & Entertainment": 1430.21,
+            "Shopping": 1321.97,
+            "Health & Wellness": 1214.63,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 17,
+        "date_range": "past_2_weeks",
+        "total_budget": 2071.96,
+        "total_expenses": 1212.86,
+        "categories": {
+            "Essentials": 254.1,
+            "Food & Entertainment": 197.29,
+            "Shopping": 332.27,
+            "Health & Wellness": 295.8,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 17,
+        "date_range": "past_month",
+        "total_budget": 6260.74,
+        "total_expenses": 9078.91,
+        "categories": {
+            "Essentials": 999.98,
+            "Food & Entertainment": 2174.02,
+            "Shopping": 1367.05,
+            "Health & Wellness": 1183.24,
+            "Other": 1616.53
+        }
+    },
+    {
+        "user_id": 17,
+        "date_range": "past_3_months",
+        "total_budget": 9244.93,
+        "total_expenses": 11296.56,
+        "categories": {
+            "Essentials": 1461.11,
+            "Food & Entertainment": 2770.05,
+            "Shopping": 2475.21,
+            "Health & Wellness": 2134.01,
+            "Other": 145.6
+        }
+    },
+    {
+        "user_id": 17,
+        "date_range": "past_6_months",
+        "total_budget": 2289.49,
+        "total_expenses": 1713.33,
+        "categories": {
+            "Essentials": 286.58,
+            "Food & Entertainment": 346.53,
+            "Shopping": 327.38,
+            "Health & Wellness": 291.7,
+            "Other": 180.83
+        }
+    },
+    {
+        "user_id": 17,
+        "date_range": "past_year",
+        "total_budget": 9778.72,
+        "total_expenses": 13272.78,
+        "categories": {
+            "Essentials": 3257.66,
+            "Food & Entertainment": 2823.15,
+            "Shopping": 3672.47,
+            "Health & Wellness": 1449.33,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 18,
+        "date_range": "past_2_weeks",
+        "total_budget": 9374.03,
+        "total_expenses": 14034.64,
+        "categories": {
+            "Essentials": 3188.26,
+            "Food & Entertainment": 1764.19,
+            "Shopping": 2349.14,
+            "Health & Wellness": 2762.06,
+            "Other": 651.74
+        }
+    },
+    {
+        "user_id": 18,
+        "date_range": "past_month",
+        "total_budget": 9660.74,
+        "total_expenses": 11399.2,
+        "categories": {
+            "Essentials": 2676.58,
+            "Food & Entertainment": 1404.53,
+            "Shopping": 2677.04,
+            "Health & Wellness": 2915.09,
+            "Other": 474.23
+        }
+    },
+    {
+        "user_id": 18,
+        "date_range": "past_3_months",
+        "total_budget": 4240.47,
+        "total_expenses": 4195.14,
+        "categories": {
+            "Essentials": 1159.89,
+            "Food & Entertainment": 481.42,
+            "Shopping": 1135.58,
+            "Health & Wellness": 1091.31,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 18,
+        "date_range": "past_6_months",
+        "total_budget": 9473.23,
+        "total_expenses": 11807.58,
+        "categories": {
+            "Essentials": 2911.81,
+            "Food & Entertainment": 1836.31,
+            "Shopping": 2175.61,
+            "Health & Wellness": 3195.84,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 18,
+        "date_range": "past_year",
+        "total_budget": 2739.15,
+        "total_expenses": 1530.22,
+        "categories": {
+            "Essentials": 364.64,
+            "Food & Entertainment": 244.46,
+            "Shopping": 302.72,
+            "Health & Wellness": 256.05,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 19,
+        "date_range": "past_2_weeks",
+        "total_budget": 7517.91,
+        "total_expenses": 3988.35,
+        "categories": {
+            "Essentials": 1040.31,
+            "Food & Entertainment": 534.77,
+            "Shopping": 674.02,
+            "Health & Wellness": 1020.89,
+            "Other": 56.87
+        }
+    },
+    {
+        "user_id": 19,
+        "date_range": "past_month",
+        "total_budget": 5411.84,
+        "total_expenses": 7330.22,
+        "categories": {
+            "Essentials": 1225.07,
+            "Food & Entertainment": 2004.53,
+            "Shopping": 1948.79,
+            "Health & Wellness": 2005.1,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 19,
+        "date_range": "past_3_months",
+        "total_budget": 9536.0,
+        "total_expenses": 11896.31,
+        "categories": {
+            "Essentials": 3444.88,
+            "Food & Entertainment": 1505.61,
+            "Shopping": 1473.69,
+            "Health & Wellness": 2401.56,
+            "Other": 1384.67
+        }
+    },
+    {
+        "user_id": 19,
+        "date_range": "past_6_months",
+        "total_budget": 6667.07,
+        "total_expenses": 5255.78,
+        "categories": {
+            "Essentials": 1064.61,
+            "Food & Entertainment": 1288.84,
+            "Shopping": 1513.32,
+            "Health & Wellness": 537.0,
+            "Other": 59.79
+        }
+    },
+    {
+        "user_id": 19,
+        "date_range": "past_year",
+        "total_budget": 3277.62,
+        "total_expenses": 3010.56,
+        "categories": {
+            "Essentials": 509.24,
+            "Food & Entertainment": 707.52,
+            "Shopping": 381.8,
+            "Health & Wellness": 781.21,
+            "Other": 176.76
+        }
+    },
+    {
+        "user_id": 20,
+        "date_range": "past_2_weeks",
+        "total_budget": 1290.3,
+        "total_expenses": 768.03,
+        "categories": {
+            "Essentials": 121.07,
+            "Food & Entertainment": 154.44,
+            "Shopping": 202.25,
+            "Health & Wellness": 212.03,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 20,
+        "date_range": "past_month",
+        "total_budget": 2255.7,
+        "total_expenses": 1268.14,
+        "categories": {
+            "Essentials": 325.95,
+            "Food & Entertainment": 292.49,
+            "Shopping": 351.12,
+            "Health & Wellness": 167.62,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 20,
+        "date_range": "past_3_months",
+        "total_budget": 7053.84,
+        "total_expenses": 8294.34,
+        "categories": {
+            "Essentials": 870.35,
+            "Food & Entertainment": 2081.04,
+            "Shopping": 1453.29,
+            "Health & Wellness": 1344.71,
+            "Other": 1547.0
+        }
+    },
+    {
+        "user_id": 20,
+        "date_range": "past_6_months",
+        "total_budget": 5669.79,
+        "total_expenses": 6264.6,
+        "categories": {
+            "Essentials": 1738.87,
+            "Food & Entertainment": 1397.89,
+            "Shopping": 1704.8,
+            "Health & Wellness": 801.35,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 20,
+        "date_range": "past_year",
+        "total_budget": 5312.24,
+        "total_expenses": 3787.07,
+        "categories": {
+            "Essentials": 546.21,
+            "Food & Entertainment": 935.05,
+            "Shopping": 758.98,
+            "Health & Wellness": 729.94,
+            "Other": 359.3
+        }
+    },
+    {
+        "user_id": 21,
+        "date_range": "past_2_weeks",
+        "total_budget": 3103.47,
+        "total_expenses": 3717.22,
+        "categories": {
+            "Essentials": 794.12,
+            "Food & Entertainment": 672.45,
+            "Shopping": 729.78,
+            "Health & Wellness": 956.3,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 21,
+        "date_range": "past_month",
+        "total_budget": 1253.81,
+        "total_expenses": 1195.39,
+        "categories": {
+            "Essentials": 206.47,
+            "Food & Entertainment": 139.42,
+            "Shopping": 305.06,
+            "Health & Wellness": 214.68,
+            "Other": 150.8
+        }
+    },
+    {
+        "user_id": 21,
+        "date_range": "past_3_months",
+        "total_budget": 2294.42,
+        "total_expenses": 1289.96,
+        "categories": {
+            "Essentials": 259.74,
+            "Food & Entertainment": 383.64,
+            "Shopping": 154.53,
+            "Health & Wellness": 383.06,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 21,
+        "date_range": "past_6_months",
+        "total_budget": 3881.9,
+        "total_expenses": 3782.48,
+        "categories": {
+            "Essentials": 917.93,
+            "Food & Entertainment": 978.96,
+            "Shopping": 971.89,
+            "Health & Wellness": 433.17,
+            "Other": 26.21
+        }
+    },
+    {
+        "user_id": 21,
+        "date_range": "past_year",
+        "total_budget": 8950.45,
+        "total_expenses": 5919.53,
+        "categories": {
+            "Essentials": 1239.39,
+            "Food & Entertainment": 1606.77,
+            "Shopping": 720.79,
+            "Health & Wellness": 602.38,
+            "Other": 1078.09
+        }
+    },
+    {
+        "user_id": 22,
+        "date_range": "past_2_weeks",
+        "total_budget": 6755.32,
+        "total_expenses": 9274.76,
+        "categories": {
+            "Essentials": 1269.05,
+            "Food & Entertainment": 1756.38,
+            "Shopping": 2241.47,
+            "Health & Wellness": 2448.5,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 22,
+        "date_range": "past_month",
+        "total_budget": 7013.14,
+        "total_expenses": 6290.61,
+        "categories": {
+            "Essentials": 990.45,
+            "Food & Entertainment": 1120.56,
+            "Shopping": 1412.18,
+            "Health & Wellness": 1849.49,
+            "Other": 186.96
+        }
+    },
+    {
+        "user_id": 22,
+        "date_range": "past_3_months",
+        "total_budget": 4673.82,
+        "total_expenses": 6440.57,
+        "categories": {
+            "Essentials": 1369.38,
+            "Food & Entertainment": 1141.33,
+            "Shopping": 1253.6,
+            "Health & Wellness": 1354.72,
+            "Other": 469.49
+        }
+    },
+    {
+        "user_id": 22,
+        "date_range": "past_6_months",
+        "total_budget": 4214.46,
+        "total_expenses": 5393.59,
+        "categories": {
+            "Essentials": 801.4,
+            "Food & Entertainment": 1513.05,
+            "Shopping": 902.09,
+            "Health & Wellness": 1002.79,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 22,
+        "date_range": "past_year",
+        "total_budget": 3697.31,
+        "total_expenses": 4238.94,
+        "categories": {
+            "Essentials": 656.78,
+            "Food & Entertainment": 823.86,
+            "Shopping": 801.41,
+            "Health & Wellness": 1040.67,
+            "Other": 215.97
+        }
+    },
+    {
+        "user_id": 23,
+        "date_range": "past_2_weeks",
+        "total_budget": 9851.08,
+        "total_expenses": 10875.42,
+        "categories": {
+            "Essentials": 1844.74,
+            "Food & Entertainment": 2141.02,
+            "Shopping": 2526.01,
+            "Health & Wellness": 1183.44,
+            "Other": 151.74
+        }
+    },
+    {
+        "user_id": 23,
+        "date_range": "past_month",
+        "total_budget": 2947.08,
+        "total_expenses": 3836.82,
+        "categories": {
+            "Essentials": 688.7,
+            "Food & Entertainment": 1037.44,
+            "Shopping": 500.04,
+            "Health & Wellness": 965.91,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 23,
+        "date_range": "past_3_months",
+        "total_budget": 3958.32,
+        "total_expenses": 4966.9,
+        "categories": {
+            "Essentials": 1075.99,
+            "Food & Entertainment": 540.38,
+            "Shopping": 795.37,
+            "Health & Wellness": 952.57,
+            "Other": 1031.38
+        }
+    },
+    {
+        "user_id": 23,
+        "date_range": "past_6_months",
+        "total_budget": 5471.46,
+        "total_expenses": 5960.78,
+        "categories": {
+            "Essentials": 1124.95,
+            "Food & Entertainment": 1748.1,
+            "Shopping": 784.81,
+            "Health & Wellness": 793.57,
+            "Other": 88.89
+        }
+    },
+    {
+        "user_id": 23,
+        "date_range": "past_year",
+        "total_budget": 1362.47,
+        "total_expenses": 957.47,
+        "categories": {
+            "Essentials": 142.83,
+            "Food & Entertainment": 264.07,
+            "Shopping": 145.26,
+            "Health & Wellness": 145.83,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 24,
+        "date_range": "past_2_weeks",
+        "total_budget": 2182.32,
+        "total_expenses": 2152.69,
+        "categories": {
+            "Essentials": 261.54,
+            "Food & Entertainment": 534.21,
+            "Shopping": 350.57,
+            "Health & Wellness": 406.3,
+            "Other": 84.73
+        }
+    },
+    {
+        "user_id": 24,
+        "date_range": "past_month",
+        "total_budget": 2671.83,
+        "total_expenses": 1371.86,
+        "categories": {
+            "Essentials": 263.52,
+            "Food & Entertainment": 189.98,
+            "Shopping": 341.93,
+            "Health & Wellness": 161.01,
+            "Other": 11.85
+        }
+    },
+    {
+        "user_id": 24,
+        "date_range": "past_3_months",
+        "total_budget": 8470.06,
+        "total_expenses": 10715.35,
+        "categories": {
+            "Essentials": 2627.8,
+            "Food & Entertainment": 2821.24,
+            "Shopping": 2060.37,
+            "Health & Wellness": 2853.26,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 24,
+        "date_range": "past_6_months",
+        "total_budget": 9891.5,
+        "total_expenses": 7674.04,
+        "categories": {
+            "Essentials": 2205.58,
+            "Food & Entertainment": 1243.3,
+            "Shopping": 910.82,
+            "Health & Wellness": 1725.35,
+            "Other": 772.21
+        }
+    },
+    {
+        "user_id": 24,
+        "date_range": "past_year",
+        "total_budget": 5696.94,
+        "total_expenses": 8519.85,
+        "categories": {
+            "Essentials": 1533.39,
+            "Food & Entertainment": 1599.85,
+            "Shopping": 2166.29,
+            "Health & Wellness": 2118.65,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 25,
+        "date_range": "past_2_weeks",
+        "total_budget": 1911.88,
+        "total_expenses": 2719.87,
+        "categories": {
+            "Essentials": 336.98,
+            "Food & Entertainment": 512.67,
+            "Shopping": 709.35,
+            "Health & Wellness": 659.39,
+            "Other": 171.62
+        }
+    },
+    {
+        "user_id": 25,
+        "date_range": "past_month",
+        "total_budget": 5473.07,
+        "total_expenses": 3135.48,
+        "categories": {
+            "Essentials": 476.58,
+            "Food & Entertainment": 879.23,
+            "Shopping": 398.12,
+            "Health & Wellness": 643.62,
+            "Other": 278.12
+        }
+    },
+    {
+        "user_id": 25,
+        "date_range": "past_3_months",
+        "total_budget": 4366.31,
+        "total_expenses": 2593.34,
+        "categories": {
+            "Essentials": 509.74,
+            "Food & Entertainment": 409.01,
+            "Shopping": 428.42,
+            "Health & Wellness": 556.28,
+            "Other": 413.64
+        }
+    },
+    {
+        "user_id": 25,
+        "date_range": "past_6_months",
+        "total_budget": 4196.7,
+        "total_expenses": 4912.07,
+        "categories": {
+            "Essentials": 1358.57,
+            "Food & Entertainment": 979.08,
+            "Shopping": 1462.61,
+            "Health & Wellness": 788.84,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 25,
+        "date_range": "past_year",
+        "total_budget": 2435.42,
+        "total_expenses": 1672.17,
+        "categories": {
+            "Essentials": 280.68,
+            "Food & Entertainment": 413.94,
+            "Shopping": 207.21,
+            "Health & Wellness": 387.78,
+            "Other": 76.6
+        }
+    },
+    {
+        "user_id": 26,
+        "date_range": "past_2_weeks",
+        "total_budget": 5955.54,
+        "total_expenses": 5479.17,
+        "categories": {
+            "Essentials": 714.17,
+            "Food & Entertainment": 1289.26,
+            "Shopping": 1378.53,
+            "Health & Wellness": 1380.45,
+            "Other": 118.96
+        }
+    },
+    {
+        "user_id": 26,
+        "date_range": "past_month",
+        "total_budget": 7952.51,
+        "total_expenses": 9048.26,
+        "categories": {
+            "Essentials": 2582.11,
+            "Food & Entertainment": 2384.28,
+            "Shopping": 1308.07,
+            "Health & Wellness": 2304.32,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 26,
+        "date_range": "past_3_months",
+        "total_budget": 7840.54,
+        "total_expenses": 11156.82,
+        "categories": {
+            "Essentials": 2275.95,
+            "Food & Entertainment": 2376.25,
+            "Shopping": 1616.64,
+            "Health & Wellness": 2891.36,
+            "Other": 134.8
+        }
+    },
+    {
+        "user_id": 26,
+        "date_range": "past_6_months",
+        "total_budget": 3370.59,
+        "total_expenses": 3460.99,
+        "categories": {
+            "Essentials": 816.86,
+            "Food & Entertainment": 909.24,
+            "Shopping": 942.0,
+            "Health & Wellness": 488.44,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 26,
+        "date_range": "past_year",
+        "total_budget": 6824.6,
+        "total_expenses": 7405.7,
+        "categories": {
+            "Essentials": 1252.98,
+            "Food & Entertainment": 1462.21,
+            "Shopping": 1800.22,
+            "Health & Wellness": 1168.22,
+            "Other": 486.83
+        }
+    },
+    {
+        "user_id": 27,
+        "date_range": "past_2_weeks",
+        "total_budget": 6934.09,
+        "total_expenses": 6234.91,
+        "categories": {
+            "Essentials": 913.4,
+            "Food & Entertainment": 664.07,
+            "Shopping": 730.07,
+            "Health & Wellness": 838.15,
+            "Other": 1380.77
+        }
+    },
+    {
+        "user_id": 27,
+        "date_range": "past_month",
+        "total_budget": 2164.37,
+        "total_expenses": 2377.92,
+        "categories": {
+            "Essentials": 703.99,
+            "Food & Entertainment": 319.54,
+            "Shopping": 436.54,
+            "Health & Wellness": 303.09,
+            "Other": 316.04
+        }
+    },
+    {
+        "user_id": 27,
+        "date_range": "past_3_months",
+        "total_budget": 8004.85,
+        "total_expenses": 7198.53,
+        "categories": {
+            "Essentials": 1273.87,
+            "Food & Entertainment": 1091.94,
+            "Shopping": 1005.97,
+            "Health & Wellness": 2121.9,
+            "Other": 942.31
+        }
+    },
+    {
+        "user_id": 27,
+        "date_range": "past_6_months",
+        "total_budget": 3417.42,
+        "total_expenses": 2695.36,
+        "categories": {
+            "Essentials": 384.92,
+            "Food & Entertainment": 630.22,
+            "Shopping": 291.59,
+            "Health & Wellness": 345.72,
+            "Other": 429.54
+        }
+    },
+    {
+        "user_id": 27,
+        "date_range": "past_year",
+        "total_budget": 7991.86,
+        "total_expenses": 5267.7,
+        "categories": {
+            "Essentials": 1397.23,
+            "Food & Entertainment": 1073.49,
+            "Shopping": 962.71,
+            "Health & Wellness": 1534.35,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 28,
+        "date_range": "past_2_weeks",
+        "total_budget": 4400.05,
+        "total_expenses": 6569.41,
+        "categories": {
+            "Essentials": 1228.42,
+            "Food & Entertainment": 1039.44,
+            "Shopping": 1873.47,
+            "Health & Wellness": 1683.86,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 28,
+        "date_range": "past_month",
+        "total_budget": 8087.15,
+        "total_expenses": 6380.11,
+        "categories": {
+            "Essentials": 1283.93,
+            "Food & Entertainment": 1112.28,
+            "Shopping": 1758.54,
+            "Health & Wellness": 717.11,
+            "Other": 159.07
+        }
+    },
+    {
+        "user_id": 28,
+        "date_range": "past_3_months",
+        "total_budget": 9897.02,
+        "total_expenses": 6879.43,
+        "categories": {
+            "Essentials": 1698.25,
+            "Food & Entertainment": 1103.28,
+            "Shopping": 1368.01,
+            "Health & Wellness": 1574.52,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 28,
+        "date_range": "past_6_months",
+        "total_budget": 2479.12,
+        "total_expenses": 1300.88,
+        "categories": {
+            "Essentials": 136.6,
+            "Food & Entertainment": 353.37,
+            "Shopping": 257.83,
+            "Health & Wellness": 221.85,
+            "Other": 148.92
+        }
+    },
+    {
+        "user_id": 28,
+        "date_range": "past_year",
+        "total_budget": 2800.85,
+        "total_expenses": 1988.39,
+        "categories": {
+            "Essentials": 345.32,
+            "Food & Entertainment": 442.71,
+            "Shopping": 519.38,
+            "Health & Wellness": 291.68,
+            "Other": 75.15
+        }
+    },
+    {
+        "user_id": 29,
+        "date_range": "past_2_weeks",
+        "total_budget": 8085.24,
+        "total_expenses": 11194.9,
+        "categories": {
+            "Essentials": 1953.21,
+            "Food & Entertainment": 2881.66,
+            "Shopping": 2711.68,
+            "Health & Wellness": 2071.63,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 29,
+        "date_range": "past_month",
+        "total_budget": 3961.51,
+        "total_expenses": 4287.29,
+        "categories": {
+            "Essentials": 496.79,
+            "Food & Entertainment": 590.8,
+            "Shopping": 1029.28,
+            "Health & Wellness": 472.12,
+            "Other": 1100.19
+        }
+    },
+    {
+        "user_id": 29,
+        "date_range": "past_3_months",
+        "total_budget": 6403.35,
+        "total_expenses": 5487.58,
+        "categories": {
+            "Essentials": 558.95,
+            "Food & Entertainment": 1196.86,
+            "Shopping": 803.53,
+            "Health & Wellness": 1575.23,
+            "Other": 327.18
+        }
+    },
+    {
+        "user_id": 29,
+        "date_range": "past_6_months",
+        "total_budget": 8407.29,
+        "total_expenses": 10957.55,
+        "categories": {
+            "Essentials": 3178.97,
+            "Food & Entertainment": 2760.91,
+            "Shopping": 1288.92,
+            "Health & Wellness": 3152.09,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 29,
+        "date_range": "past_year",
+        "total_budget": 8226.74,
+        "total_expenses": 5903.67,
+        "categories": {
+            "Essentials": 997.58,
+            "Food & Entertainment": 1711.61,
+            "Shopping": 1598.76,
+            "Health & Wellness": 1366.18,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 30,
+        "date_range": "past_2_weeks",
+        "total_budget": 5628.13,
+        "total_expenses": 8184.4,
+        "categories": {
+            "Essentials": 2185.52,
+            "Food & Entertainment": 1605.74,
+            "Shopping": 2130.95,
+            "Health & Wellness": 837.45,
+            "Other": 477.9
+        }
+    },
+    {
+        "user_id": 30,
+        "date_range": "past_month",
+        "total_budget": 2084.61,
+        "total_expenses": 2835.88,
+        "categories": {
+            "Essentials": 777.37,
+            "Food & Entertainment": 644.43,
+            "Shopping": 600.49,
+            "Health & Wellness": 760.33,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 30,
+        "date_range": "past_3_months",
+        "total_budget": 5967.17,
+        "total_expenses": 6917.18,
+        "categories": {
+            "Essentials": 1268.89,
+            "Food & Entertainment": 1826.68,
+            "Shopping": 1821.57,
+            "Health & Wellness": 1239.21,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 30,
+        "date_range": "past_6_months",
+        "total_budget": 3417.78,
+        "total_expenses": 4182.86,
+        "categories": {
+            "Essentials": 1131.3,
+            "Food & Entertainment": 910.95,
+            "Shopping": 619.01,
+            "Health & Wellness": 894.09,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 30,
+        "date_range": "past_year",
+        "total_budget": 9961.7,
+        "total_expenses": 7649.96,
+        "categories": {
+            "Essentials": 2259.98,
+            "Food & Entertainment": 1760.21,
+            "Shopping": 1674.29,
+            "Health & Wellness": 1020.14,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 31,
+        "date_range": "past_2_weeks",
+        "total_budget": 7394.82,
+        "total_expenses": 8311.73,
+        "categories": {
+            "Essentials": 1245.61,
+            "Food & Entertainment": 1242.36,
+            "Shopping": 2416.9,
+            "Health & Wellness": 2052.68,
+            "Other": 25.6
+        }
+    },
+    {
+        "user_id": 31,
+        "date_range": "past_month",
+        "total_budget": 8311.7,
+        "total_expenses": 8350.84,
+        "categories": {
+            "Essentials": 1027.79,
+            "Food & Entertainment": 1260.5,
+            "Shopping": 1157.96,
+            "Health & Wellness": 2140.24,
+            "Other": 1126.45
+        }
+    },
+    {
+        "user_id": 31,
+        "date_range": "past_3_months",
+        "total_budget": 3481.85,
+        "total_expenses": 4566.41,
+        "categories": {
+            "Essentials": 1203.68,
+            "Food & Entertainment": 970.41,
+            "Shopping": 1347.64,
+            "Health & Wellness": 1000.19,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 31,
+        "date_range": "past_6_months",
+        "total_budget": 3689.29,
+        "total_expenses": 4877.06,
+        "categories": {
+            "Essentials": 988.24,
+            "Food & Entertainment": 1205.56,
+            "Shopping": 1032.79,
+            "Health & Wellness": 766.56,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 31,
+        "date_range": "past_year",
+        "total_budget": 7378.77,
+        "total_expenses": 4090.19,
+        "categories": {
+            "Essentials": 550.17,
+            "Food & Entertainment": 921.01,
+            "Shopping": 1103.84,
+            "Health & Wellness": 606.68,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 32,
+        "date_range": "past_2_weeks",
+        "total_budget": 4056.25,
+        "total_expenses": 5543.1,
+        "categories": {
+            "Essentials": 1214.17,
+            "Food & Entertainment": 1417.02,
+            "Shopping": 846.51,
+            "Health & Wellness": 1115.95,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 32,
+        "date_range": "past_month",
+        "total_budget": 3494.51,
+        "total_expenses": 2019.82,
+        "categories": {
+            "Essentials": 444.62,
+            "Food & Entertainment": 333.27,
+            "Shopping": 531.29,
+            "Health & Wellness": 375.58,
+            "Other": 71.41
+        }
+    },
+    {
+        "user_id": 32,
+        "date_range": "past_3_months",
+        "total_budget": 7685.89,
+        "total_expenses": 9358.81,
+        "categories": {
+            "Essentials": 1172.09,
+            "Food & Entertainment": 2373.28,
+            "Shopping": 1367.61,
+            "Health & Wellness": 1803.43,
+            "Other": 1123.09
+        }
+    },
+    {
+        "user_id": 32,
+        "date_range": "past_6_months",
+        "total_budget": 2197.93,
+        "total_expenses": 2366.72,
+        "categories": {
+            "Essentials": 424.15,
+            "Food & Entertainment": 273.36,
+            "Shopping": 389.88,
+            "Health & Wellness": 567.02,
+            "Other": 260.72
+        }
+    },
+    {
+        "user_id": 32,
+        "date_range": "past_year",
+        "total_budget": 3845.24,
+        "total_expenses": 3766.58,
+        "categories": {
+            "Essentials": 924.92,
+            "Food & Entertainment": 954.14,
+            "Shopping": 968.41,
+            "Health & Wellness": 560.2,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 33,
+        "date_range": "past_2_weeks",
+        "total_budget": 4317.47,
+        "total_expenses": 3648.68,
+        "categories": {
+            "Essentials": 667.56,
+            "Food & Entertainment": 853.44,
+            "Shopping": 383.13,
+            "Health & Wellness": 579.45,
+            "Other": 516.86
+        }
+    },
+    {
+        "user_id": 33,
+        "date_range": "past_month",
+        "total_budget": 5083.84,
+        "total_expenses": 7252.21,
+        "categories": {
+            "Essentials": 1858.47,
+            "Food & Entertainment": 1813.73,
+            "Shopping": 1375.47,
+            "Health & Wellness": 728.43,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 33,
+        "date_range": "past_3_months",
+        "total_budget": 9408.05,
+        "total_expenses": 9833.26,
+        "categories": {
+            "Essentials": 1366.39,
+            "Food & Entertainment": 2335.74,
+            "Shopping": 1594.54,
+            "Health & Wellness": 2005.71,
+            "Other": 571.08
+        }
+    },
+    {
+        "user_id": 33,
+        "date_range": "past_6_months",
+        "total_budget": 7161.4,
+        "total_expenses": 4614.13,
+        "categories": {
+            "Essentials": 841.91,
+            "Food & Entertainment": 1200.06,
+            "Shopping": 1022.41,
+            "Health & Wellness": 621.96,
+            "Other": 193.16
+        }
+    },
+    {
+        "user_id": 33,
+        "date_range": "past_year",
+        "total_budget": 9674.86,
+        "total_expenses": 5106.93,
+        "categories": {
+            "Essentials": 1452.64,
+            "Food & Entertainment": 1267.84,
+            "Shopping": 1056.46,
+            "Health & Wellness": 1249.24,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 34,
+        "date_range": "past_2_weeks",
+        "total_budget": 2914.1,
+        "total_expenses": 1467.22,
+        "categories": {
+            "Essentials": 410.13,
+            "Food & Entertainment": 237.69,
+            "Shopping": 412.65,
+            "Health & Wellness": 438.87,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 34,
+        "date_range": "past_month",
+        "total_budget": 4911.2,
+        "total_expenses": 3343.52,
+        "categories": {
+            "Essentials": 413.98,
+            "Food & Entertainment": 657.69,
+            "Shopping": 565.55,
+            "Health & Wellness": 464.06,
+            "Other": 331.41
+        }
+    },
+    {
+        "user_id": 34,
+        "date_range": "past_3_months",
+        "total_budget": 3945.37,
+        "total_expenses": 2967.72,
+        "categories": {
+            "Essentials": 836.19,
+            "Food & Entertainment": 619.07,
+            "Shopping": 682.45,
+            "Health & Wellness": 328.01,
+            "Other": 27.3
+        }
+    },
+    {
+        "user_id": 34,
+        "date_range": "past_6_months",
+        "total_budget": 5752.18,
+        "total_expenses": 4640.25,
+        "categories": {
+            "Essentials": 769.6,
+            "Food & Entertainment": 1335.25,
+            "Shopping": 1327.65,
+            "Health & Wellness": 1157.22,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 34,
+        "date_range": "past_year",
+        "total_budget": 9195.31,
+        "total_expenses": 9593.46,
+        "categories": {
+            "Essentials": 1963.51,
+            "Food & Entertainment": 1436.68,
+            "Shopping": 2769.84,
+            "Health & Wellness": 1916.9,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 35,
+        "date_range": "past_2_weeks",
+        "total_budget": 8222.02,
+        "total_expenses": 8044.74,
+        "categories": {
+            "Essentials": 965.67,
+            "Food & Entertainment": 1361.58,
+            "Shopping": 1725.95,
+            "Health & Wellness": 1123.18,
+            "Other": 1947.19
+        }
+    },
+    {
+        "user_id": 35,
+        "date_range": "past_month",
+        "total_budget": 2996.83,
+        "total_expenses": 2564.86,
+        "categories": {
+            "Essentials": 339.97,
+            "Food & Entertainment": 541.74,
+            "Shopping": 632.97,
+            "Health & Wellness": 374.7,
+            "Other": 206.85
+        }
+    },
+    {
+        "user_id": 35,
+        "date_range": "past_3_months",
+        "total_budget": 5675.4,
+        "total_expenses": 4781.48,
+        "categories": {
+            "Essentials": 1022.23,
+            "Food & Entertainment": 862.23,
+            "Shopping": 1112.64,
+            "Health & Wellness": 1331.87,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 35,
+        "date_range": "past_6_months",
+        "total_budget": 7154.24,
+        "total_expenses": 7114.94,
+        "categories": {
+            "Essentials": 827.38,
+            "Food & Entertainment": 1326.45,
+            "Shopping": 1156.76,
+            "Health & Wellness": 741.82,
+            "Other": 1912.85
+        }
+    },
+    {
+        "user_id": 35,
+        "date_range": "past_year",
+        "total_budget": 2517.99,
+        "total_expenses": 3684.59,
+        "categories": {
+            "Essentials": 811.59,
+            "Food & Entertainment": 818.68,
+            "Shopping": 1023.62,
+            "Health & Wellness": 759.54,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 36,
+        "date_range": "past_2_weeks",
+        "total_budget": 5798.72,
+        "total_expenses": 5940.7,
+        "categories": {
+            "Essentials": 1720.23,
+            "Food & Entertainment": 637.74,
+            "Shopping": 1462.39,
+            "Health & Wellness": 1062.59,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 36,
+        "date_range": "past_month",
+        "total_budget": 9360.51,
+        "total_expenses": 9613.44,
+        "categories": {
+            "Essentials": 2712.58,
+            "Food & Entertainment": 1595.0,
+            "Shopping": 1926.29,
+            "Health & Wellness": 1274.06,
+            "Other": 674.09
+        }
+    },
+    {
+        "user_id": 36,
+        "date_range": "past_3_months",
+        "total_budget": 5445.81,
+        "total_expenses": 7965.93,
+        "categories": {
+            "Essentials": 1131.54,
+            "Food & Entertainment": 1893.55,
+            "Shopping": 1743.64,
+            "Health & Wellness": 1041.71,
+            "Other": 417.12
+        }
+    },
+    {
+        "user_id": 36,
+        "date_range": "past_6_months",
+        "total_budget": 6802.28,
+        "total_expenses": 7593.05,
+        "categories": {
+            "Essentials": 1985.61,
+            "Food & Entertainment": 2256.07,
+            "Shopping": 958.17,
+            "Health & Wellness": 1525.57,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 36,
+        "date_range": "past_year",
+        "total_budget": 4787.55,
+        "total_expenses": 4568.16,
+        "categories": {
+            "Essentials": 1287.49,
+            "Food & Entertainment": 819.56,
+            "Shopping": 764.57,
+            "Health & Wellness": 1348.17,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 37,
+        "date_range": "past_2_weeks",
+        "total_budget": 7666.45,
+        "total_expenses": 7236.92,
+        "categories": {
+            "Essentials": 881.4,
+            "Food & Entertainment": 824.07,
+            "Shopping": 1727.73,
+            "Health & Wellness": 1057.89,
+            "Other": 1284.37
+        }
+    },
+    {
+        "user_id": 37,
+        "date_range": "past_month",
+        "total_budget": 8773.85,
+        "total_expenses": 8724.78,
+        "categories": {
+            "Essentials": 949.17,
+            "Food & Entertainment": 1752.07,
+            "Shopping": 1967.22,
+            "Health & Wellness": 1999.33,
+            "Other": 440.62
+        }
+    },
+    {
+        "user_id": 37,
+        "date_range": "past_3_months",
+        "total_budget": 2196.34,
+        "total_expenses": 1203.01,
+        "categories": {
+            "Essentials": 157.07,
+            "Food & Entertainment": 218.08,
+            "Shopping": 164.36,
+            "Health & Wellness": 349.28,
+            "Other": 93.26
+        }
+    },
+    {
+        "user_id": 37,
+        "date_range": "past_6_months",
+        "total_budget": 5251.67,
+        "total_expenses": 3798.34,
+        "categories": {
+            "Essentials": 1086.03,
+            "Food & Entertainment": 1116.23,
+            "Shopping": 451.36,
+            "Health & Wellness": 743.86,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 37,
+        "date_range": "past_year",
+        "total_budget": 3153.84,
+        "total_expenses": 4351.83,
+        "categories": {
+            "Essentials": 872.84,
+            "Food & Entertainment": 1291.14,
+            "Shopping": 727.34,
+            "Health & Wellness": 1144.47,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 38,
+        "date_range": "past_2_weeks",
+        "total_budget": 6369.27,
+        "total_expenses": 8525.31,
+        "categories": {
+            "Essentials": 1117.33,
+            "Food & Entertainment": 941.14,
+            "Shopping": 1176.38,
+            "Health & Wellness": 2374.47,
+            "Other": 1585.17
+        }
+    },
+    {
+        "user_id": 38,
+        "date_range": "past_month",
+        "total_budget": 4693.98,
+        "total_expenses": 6881.33,
+        "categories": {
+            "Essentials": 1377.7,
+            "Food & Entertainment": 1487.14,
+            "Shopping": 1738.63,
+            "Health & Wellness": 1107.67,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 38,
+        "date_range": "past_3_months",
+        "total_budget": 9924.7,
+        "total_expenses": 11413.34,
+        "categories": {
+            "Essentials": 2122.17,
+            "Food & Entertainment": 2009.97,
+            "Shopping": 3337.42,
+            "Health & Wellness": 1233.22,
+            "Other": 125.47
+        }
+    },
+    {
+        "user_id": 38,
+        "date_range": "past_6_months",
+        "total_budget": 6217.7,
+        "total_expenses": 6628.78,
+        "categories": {
+            "Essentials": 1816.85,
+            "Food & Entertainment": 1555.51,
+            "Shopping": 1472.24,
+            "Health & Wellness": 1428.28,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 38,
+        "date_range": "past_year",
+        "total_budget": 3861.36,
+        "total_expenses": 4305.54,
+        "categories": {
+            "Essentials": 1211.79,
+            "Food & Entertainment": 695.41,
+            "Shopping": 828.51,
+            "Health & Wellness": 556.48,
+            "Other": 307.51
+        }
+    },
+    {
+        "user_id": 39,
+        "date_range": "past_2_weeks",
+        "total_budget": 3349.68,
+        "total_expenses": 4158.0,
+        "categories": {
+            "Essentials": 440.79,
+            "Food & Entertainment": 574.92,
+            "Shopping": 880.31,
+            "Health & Wellness": 495.82,
+            "Other": 1178.52
+        }
+    },
+    {
+        "user_id": 39,
+        "date_range": "past_month",
+        "total_budget": 3055.98,
+        "total_expenses": 3786.79,
+        "categories": {
+            "Essentials": 1021.5,
+            "Food & Entertainment": 987.5,
+            "Shopping": 1002.01,
+            "Health & Wellness": 637.13,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 39,
+        "date_range": "past_3_months",
+        "total_budget": 5797.44,
+        "total_expenses": 6491.3,
+        "categories": {
+            "Essentials": 883.95,
+            "Food & Entertainment": 1768.57,
+            "Shopping": 1834.26,
+            "Health & Wellness": 1014.61,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 39,
+        "date_range": "past_6_months",
+        "total_budget": 3447.65,
+        "total_expenses": 2187.47,
+        "categories": {
+            "Essentials": 593.64,
+            "Food & Entertainment": 653.87,
+            "Shopping": 603.55,
+            "Health & Wellness": 359.66,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 39,
+        "date_range": "past_year",
+        "total_budget": 8599.27,
+        "total_expenses": 10949.56,
+        "categories": {
+            "Essentials": 3146.38,
+            "Food & Entertainment": 2630.82,
+            "Shopping": 2672.25,
+            "Health & Wellness": 3205.3,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 40,
+        "date_range": "past_2_weeks",
+        "total_budget": 4721.85,
+        "total_expenses": 3350.08,
+        "categories": {
+            "Essentials": 601.46,
+            "Food & Entertainment": 518.97,
+            "Shopping": 946.87,
+            "Health & Wellness": 872.18,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 40,
+        "date_range": "past_month",
+        "total_budget": 2571.69,
+        "total_expenses": 3447.53,
+        "categories": {
+            "Essentials": 497.39,
+            "Food & Entertainment": 856.96,
+            "Shopping": 928.03,
+            "Health & Wellness": 612.48,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 40,
+        "date_range": "past_3_months",
+        "total_budget": 4306.11,
+        "total_expenses": 4572.66,
+        "categories": {
+            "Essentials": 496.78,
+            "Food & Entertainment": 1179.62,
+            "Shopping": 716.1,
+            "Health & Wellness": 691.57,
+            "Other": 333.96
+        }
+    },
+    {
+        "user_id": 40,
+        "date_range": "past_6_months",
+        "total_budget": 1488.73,
+        "total_expenses": 1660.55,
+        "categories": {
+            "Essentials": 218.6,
+            "Food & Entertainment": 390.94,
+            "Shopping": 381.91,
+            "Health & Wellness": 173.44,
+            "Other": 125.59
+        }
+    },
+    {
+        "user_id": 40,
+        "date_range": "past_year",
+        "total_budget": 8444.34,
+        "total_expenses": 9611.93,
+        "categories": {
+            "Essentials": 1002.69,
+            "Food & Entertainment": 2153.62,
+            "Shopping": 1029.63,
+            "Health & Wellness": 2433.54,
+            "Other": 1521.42
+        }
+    },
+    {
+        "user_id": 41,
+        "date_range": "past_2_weeks",
+        "total_budget": 7321.27,
+        "total_expenses": 9490.37,
+        "categories": {
+            "Essentials": 2313.14,
+            "Food & Entertainment": 2451.9,
+            "Shopping": 1892.38,
+            "Health & Wellness": 2608.6,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 41,
+        "date_range": "past_month",
+        "total_budget": 4001.92,
+        "total_expenses": 2081.38,
+        "categories": {
+            "Essentials": 276.31,
+            "Food & Entertainment": 369.0,
+            "Shopping": 468.25,
+            "Health & Wellness": 587.79,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 41,
+        "date_range": "past_3_months",
+        "total_budget": 7376.65,
+        "total_expenses": 6304.75,
+        "categories": {
+            "Essentials": 1852.04,
+            "Food & Entertainment": 1305.8,
+            "Shopping": 1184.48,
+            "Health & Wellness": 709.12,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 41,
+        "date_range": "past_6_months",
+        "total_budget": 3739.06,
+        "total_expenses": 3733.54,
+        "categories": {
+            "Essentials": 889.08,
+            "Food & Entertainment": 894.46,
+            "Shopping": 1039.91,
+            "Health & Wellness": 494.58,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 41,
+        "date_range": "past_year",
+        "total_budget": 8888.95,
+        "total_expenses": 13061.2,
+        "categories": {
+            "Essentials": 2820.21,
+            "Food & Entertainment": 1605.32,
+            "Shopping": 1781.3,
+            "Health & Wellness": 2787.67,
+            "Other": 1353.87
+        }
+    },
+    {
+        "user_id": 42,
+        "date_range": "past_2_weeks",
+        "total_budget": 1457.6,
+        "total_expenses": 1037.88,
+        "categories": {
+            "Essentials": 309.89,
+            "Food & Entertainment": 301.04,
+            "Shopping": 214.78,
+            "Health & Wellness": 241.17,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 42,
+        "date_range": "past_month",
+        "total_budget": 9890.21,
+        "total_expenses": 9679.03,
+        "categories": {
+            "Essentials": 2120.46,
+            "Food & Entertainment": 1708.84,
+            "Shopping": 2012.36,
+            "Health & Wellness": 2296.73,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 42,
+        "date_range": "past_3_months",
+        "total_budget": 1655.15,
+        "total_expenses": 2281.21,
+        "categories": {
+            "Essentials": 262.44,
+            "Food & Entertainment": 431.59,
+            "Shopping": 353.63,
+            "Health & Wellness": 592.99,
+            "Other": 286.23
+        }
+    },
+    {
+        "user_id": 42,
+        "date_range": "past_6_months",
+        "total_budget": 9255.23,
+        "total_expenses": 13468.53,
+        "categories": {
+            "Essentials": 3147.89,
+            "Food & Entertainment": 2942.91,
+            "Shopping": 3764.64,
+            "Health & Wellness": 2025.81,
+            "Other": 7.81
+        }
+    },
+    {
+        "user_id": 42,
+        "date_range": "past_year",
+        "total_budget": 2887.66,
+        "total_expenses": 3867.85,
+        "categories": {
+            "Essentials": 971.54,
+            "Food & Entertainment": 826.69,
+            "Shopping": 430.28,
+            "Health & Wellness": 801.04,
+            "Other": 338.53
+        }
+    },
+    {
+        "user_id": 43,
+        "date_range": "past_2_weeks",
+        "total_budget": 5140.78,
+        "total_expenses": 6998.22,
+        "categories": {
+            "Essentials": 1531.66,
+            "Food & Entertainment": 1128.54,
+            "Shopping": 2025.97,
+            "Health & Wellness": 1979.06,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 43,
+        "date_range": "past_month",
+        "total_budget": 8462.34,
+        "total_expenses": 8004.01,
+        "categories": {
+            "Essentials": 1158.25,
+            "Food & Entertainment": 1233.01,
+            "Shopping": 1638.51,
+            "Health & Wellness": 1536.44,
+            "Other": 993.11
+        }
+    },
+    {
+        "user_id": 43,
+        "date_range": "past_3_months",
+        "total_budget": 8828.5,
+        "total_expenses": 4514.76,
+        "categories": {
+            "Essentials": 574.77,
+            "Food & Entertainment": 1008.08,
+            "Shopping": 933.91,
+            "Health & Wellness": 1281.41,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 43,
+        "date_range": "past_6_months",
+        "total_budget": 8466.65,
+        "total_expenses": 6403.02,
+        "categories": {
+            "Essentials": 1206.17,
+            "Food & Entertainment": 975.92,
+            "Shopping": 1526.36,
+            "Health & Wellness": 1686.02,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 43,
+        "date_range": "past_year",
+        "total_budget": 1963.06,
+        "total_expenses": 2123.22,
+        "categories": {
+            "Essentials": 504.21,
+            "Food & Entertainment": 221.21,
+            "Shopping": 303.21,
+            "Health & Wellness": 303.92,
+            "Other": 396.67
+        }
+    },
+    {
+        "user_id": 44,
+        "date_range": "past_2_weeks",
+        "total_budget": 9228.46,
+        "total_expenses": 12623.73,
+        "categories": {
+            "Essentials": 2941.96,
+            "Food & Entertainment": 2081.73,
+            "Shopping": 3557.77,
+            "Health & Wellness": 2879.84,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 44,
+        "date_range": "past_month",
+        "total_budget": 5734.16,
+        "total_expenses": 4667.89,
+        "categories": {
+            "Essentials": 820.38,
+            "Food & Entertainment": 472.97,
+            "Shopping": 913.05,
+            "Health & Wellness": 564.94,
+            "Other": 1403.53
+        }
+    },
+    {
+        "user_id": 44,
+        "date_range": "past_3_months",
+        "total_budget": 9654.77,
+        "total_expenses": 7010.91,
+        "categories": {
+            "Essentials": 1197.85,
+            "Food & Entertainment": 720.27,
+            "Shopping": 992.31,
+            "Health & Wellness": 1269.34,
+            "Other": 959.82
+        }
+    },
+    {
+        "user_id": 44,
+        "date_range": "past_6_months",
+        "total_budget": 2767.83,
+        "total_expenses": 2767.89,
+        "categories": {
+            "Essentials": 616.43,
+            "Food & Entertainment": 400.34,
+            "Shopping": 473.37,
+            "Health & Wellness": 509.19,
+            "Other": 133.45
+        }
+    },
+    {
+        "user_id": 44,
+        "date_range": "past_year",
+        "total_budget": 8926.0,
+        "total_expenses": 9822.33,
+        "categories": {
+            "Essentials": 2769.78,
+            "Food & Entertainment": 1321.78,
+            "Shopping": 2938.04,
+            "Health & Wellness": 1839.45,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 45,
+        "date_range": "past_2_weeks",
+        "total_budget": 7667.08,
+        "total_expenses": 6675.74,
+        "categories": {
+            "Essentials": 1697.52,
+            "Food & Entertainment": 1463.22,
+            "Shopping": 1538.93,
+            "Health & Wellness": 1637.01,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 45,
+        "date_range": "past_month",
+        "total_budget": 7344.48,
+        "total_expenses": 6978.61,
+        "categories": {
+            "Essentials": 2007.87,
+            "Food & Entertainment": 1448.11,
+            "Shopping": 1079.2,
+            "Health & Wellness": 1362.07,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 45,
+        "date_range": "past_3_months",
+        "total_budget": 6855.65,
+        "total_expenses": 6902.69,
+        "categories": {
+            "Essentials": 1002.97,
+            "Food & Entertainment": 1670.55,
+            "Shopping": 870.78,
+            "Health & Wellness": 1881.14,
+            "Other": 595.43
+        }
+    },
+    {
+        "user_id": 45,
+        "date_range": "past_6_months",
+        "total_budget": 7277.16,
+        "total_expenses": 9827.06,
+        "categories": {
+            "Essentials": 2782.93,
+            "Food & Entertainment": 2685.68,
+            "Shopping": 1711.38,
+            "Health & Wellness": 1922.2,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 45,
+        "date_range": "past_year",
+        "total_budget": 6173.83,
+        "total_expenses": 4435.45,
+        "categories": {
+            "Essentials": 544.62,
+            "Food & Entertainment": 1328.4,
+            "Shopping": 1309.38,
+            "Health & Wellness": 785.63,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 46,
+        "date_range": "past_2_weeks",
+        "total_budget": 5104.96,
+        "total_expenses": 4733.25,
+        "categories": {
+            "Essentials": 785.12,
+            "Food & Entertainment": 1336.04,
+            "Shopping": 1094.06,
+            "Health & Wellness": 1316.04,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 46,
+        "date_range": "past_month",
+        "total_budget": 4474.27,
+        "total_expenses": 5476.87,
+        "categories": {
+            "Essentials": 1260.32,
+            "Food & Entertainment": 1056.25,
+            "Shopping": 1002.3,
+            "Health & Wellness": 617.95,
+            "Other": 717.48
+        }
+    },
+    {
+        "user_id": 46,
+        "date_range": "past_3_months",
+        "total_budget": 9721.15,
+        "total_expenses": 13889.9,
+        "categories": {
+            "Essentials": 2927.92,
+            "Food & Entertainment": 3836.03,
+            "Shopping": 1777.87,
+            "Health & Wellness": 3579.25,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 46,
+        "date_range": "past_6_months",
+        "total_budget": 9588.92,
+        "total_expenses": 4974.75,
+        "categories": {
+            "Essentials": 751.85,
+            "Food & Entertainment": 640.41,
+            "Shopping": 711.26,
+            "Health & Wellness": 1113.75,
+            "Other": 1206.81
+        }
+    },
+    {
+        "user_id": 46,
+        "date_range": "past_year",
+        "total_budget": 3863.96,
+        "total_expenses": 3218.0,
+        "categories": {
+            "Essentials": 331.97,
+            "Food & Entertainment": 885.48,
+            "Shopping": 675.44,
+            "Health & Wellness": 693.3,
+            "Other": 32.28
+        }
+    },
+    {
+        "user_id": 47,
+        "date_range": "past_2_weeks",
+        "total_budget": 3836.46,
+        "total_expenses": 4086.87,
+        "categories": {
+            "Essentials": 1209.09,
+            "Food & Entertainment": 433.49,
+            "Shopping": 481.05,
+            "Health & Wellness": 634.14,
+            "Other": 359.11
+        }
+    },
+    {
+        "user_id": 47,
+        "date_range": "past_month",
+        "total_budget": 3514.32,
+        "total_expenses": 2335.82,
+        "categories": {
+            "Essentials": 497.65,
+            "Food & Entertainment": 302.09,
+            "Shopping": 574.88,
+            "Health & Wellness": 441.36,
+            "Other": 31.72
+        }
+    },
+    {
+        "user_id": 47,
+        "date_range": "past_3_months",
+        "total_budget": 5157.45,
+        "total_expenses": 2673.23,
+        "categories": {
+            "Essentials": 572.66,
+            "Food & Entertainment": 395.99,
+            "Shopping": 770.68,
+            "Health & Wellness": 588.37,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 47,
+        "date_range": "past_6_months",
+        "total_budget": 6610.48,
+        "total_expenses": 3472.04,
+        "categories": {
+            "Essentials": 740.19,
+            "Food & Entertainment": 993.18,
+            "Shopping": 539.58,
+            "Health & Wellness": 896.01,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 47,
+        "date_range": "past_year",
+        "total_budget": 6098.73,
+        "total_expenses": 5995.61,
+        "categories": {
+            "Essentials": 682.32,
+            "Food & Entertainment": 1160.98,
+            "Shopping": 1096.12,
+            "Health & Wellness": 1442.61,
+            "Other": 241.03
+        }
+    },
+    {
+        "user_id": 48,
+        "date_range": "past_2_weeks",
+        "total_budget": 5315.89,
+        "total_expenses": 2937.0,
+        "categories": {
+            "Essentials": 305.21,
+            "Food & Entertainment": 479.95,
+            "Shopping": 822.98,
+            "Health & Wellness": 655.05,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 48,
+        "date_range": "past_month",
+        "total_budget": 4348.07,
+        "total_expenses": 3006.78,
+        "categories": {
+            "Essentials": 770.12,
+            "Food & Entertainment": 754.95,
+            "Shopping": 742.36,
+            "Health & Wellness": 368.64,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 48,
+        "date_range": "past_3_months",
+        "total_budget": 5175.76,
+        "total_expenses": 6004.13,
+        "categories": {
+            "Essentials": 917.88,
+            "Food & Entertainment": 1611.25,
+            "Shopping": 1288.74,
+            "Health & Wellness": 1404.55,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 48,
+        "date_range": "past_6_months",
+        "total_budget": 7913.33,
+        "total_expenses": 10536.24,
+        "categories": {
+            "Essentials": 1262.53,
+            "Food & Entertainment": 3137.11,
+            "Shopping": 2456.47,
+            "Health & Wellness": 2203.68,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 48,
+        "date_range": "past_year",
+        "total_budget": 3300.95,
+        "total_expenses": 2859.31,
+        "categories": {
+            "Essentials": 610.57,
+            "Food & Entertainment": 619.21,
+            "Shopping": 680.24,
+            "Health & Wellness": 676.58,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 49,
+        "date_range": "past_2_weeks",
+        "total_budget": 4905.25,
+        "total_expenses": 3991.15,
+        "categories": {
+            "Essentials": 886.37,
+            "Food & Entertainment": 444.71,
+            "Shopping": 953.62,
+            "Health & Wellness": 913.43,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 49,
+        "date_range": "past_month",
+        "total_budget": 5964.77,
+        "total_expenses": 4094.05,
+        "categories": {
+            "Essentials": 927.08,
+            "Food & Entertainment": 1174.82,
+            "Shopping": 1102.3,
+            "Health & Wellness": 740.06,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 49,
+        "date_range": "past_3_months",
+        "total_budget": 9275.22,
+        "total_expenses": 5158.34,
+        "categories": {
+            "Essentials": 901.65,
+            "Food & Entertainment": 752.79,
+            "Shopping": 849.05,
+            "Health & Wellness": 1121.81,
+            "Other": 788.66
+        }
+    },
+    {
+        "user_id": 49,
+        "date_range": "past_6_months",
+        "total_budget": 3119.77,
+        "total_expenses": 3199.51,
+        "categories": {
+            "Essentials": 611.29,
+            "Food & Entertainment": 823.03,
+            "Shopping": 853.04,
+            "Health & Wellness": 893.92,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 49,
+        "date_range": "past_year",
+        "total_budget": 6031.43,
+        "total_expenses": 3366.9,
+        "categories": {
+            "Essentials": 381.82,
+            "Food & Entertainment": 474.71,
+            "Shopping": 570.07,
+            "Health & Wellness": 837.57,
+            "Other": 110.83
+        }
+    },
+    {
+        "user_id": 50,
+        "date_range": "past_2_weeks",
+        "total_budget": 6716.09,
+        "total_expenses": 7468.41,
+        "categories": {
+            "Essentials": 929.3,
+            "Food & Entertainment": 1200.16,
+            "Shopping": 1944.54,
+            "Health & Wellness": 785.51,
+            "Other": 1709.02
+        }
+    },
+    {
+        "user_id": 50,
+        "date_range": "past_month",
+        "total_budget": 7235.29,
+        "total_expenses": 7168.87,
+        "categories": {
+            "Essentials": 1076.77,
+            "Food & Entertainment": 2148.83,
+            "Shopping": 2000.61,
+            "Health & Wellness": 2082.48,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 50,
+        "date_range": "past_3_months",
+        "total_budget": 7980.86,
+        "total_expenses": 5731.11,
+        "categories": {
+            "Essentials": 1581.13,
+            "Food & Entertainment": 1494.5,
+            "Shopping": 862.9,
+            "Health & Wellness": 1639.69,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 50,
+        "date_range": "past_6_months",
+        "total_budget": 3221.62,
+        "total_expenses": 3660.34,
+        "categories": {
+            "Essentials": 598.73,
+            "Food & Entertainment": 486.09,
+            "Shopping": 839.79,
+            "Health & Wellness": 555.14,
+            "Other": 534.34
+        }
+    },
+    {
+        "user_id": 50,
+        "date_range": "past_year",
+        "total_budget": 6611.4,
+        "total_expenses": 5145.51,
+        "categories": {
+            "Essentials": 1460.06,
+            "Food & Entertainment": 1256.8,
+            "Shopping": 674.29,
+            "Health & Wellness": 811.33,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 51,
+        "date_range": "past_2_weeks",
+        "total_budget": 8735.92,
+        "total_expenses": 6775.03,
+        "categories": {
+            "Essentials": 1473.48,
+            "Food & Entertainment": 1577.89,
+            "Shopping": 1855.29,
+            "Health & Wellness": 1360.53,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 51,
+        "date_range": "past_month",
+        "total_budget": 3880.25,
+        "total_expenses": 3655.08,
+        "categories": {
+            "Essentials": 966.97,
+            "Food & Entertainment": 713.15,
+            "Shopping": 1048.2,
+            "Health & Wellness": 697.49,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 51,
+        "date_range": "past_3_months",
+        "total_budget": 1113.94,
+        "total_expenses": 796.71,
+        "categories": {
+            "Essentials": 228.83,
+            "Food & Entertainment": 182.1,
+            "Shopping": 228.08,
+            "Health & Wellness": 173.38,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 51,
+        "date_range": "past_6_months",
+        "total_budget": 4124.21,
+        "total_expenses": 4787.58,
+        "categories": {
+            "Essentials": 1132.27,
+            "Food & Entertainment": 1117.27,
+            "Shopping": 535.47,
+            "Health & Wellness": 839.2,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 51,
+        "date_range": "past_year",
+        "total_budget": 3496.84,
+        "total_expenses": 3746.79,
+        "categories": {
+            "Essentials": 1026.83,
+            "Food & Entertainment": 808.37,
+            "Shopping": 984.48,
+            "Health & Wellness": 611.67,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 52,
+        "date_range": "past_2_weeks",
+        "total_budget": 4551.89,
+        "total_expenses": 5487.13,
+        "categories": {
+            "Essentials": 983.99,
+            "Food & Entertainment": 1537.64,
+            "Shopping": 1642.75,
+            "Health & Wellness": 658.03,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 52,
+        "date_range": "past_month",
+        "total_budget": 6671.21,
+        "total_expenses": 7118.65,
+        "categories": {
+            "Essentials": 1976.3,
+            "Food & Entertainment": 1605.29,
+            "Shopping": 1082.87,
+            "Health & Wellness": 1368.71,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 52,
+        "date_range": "past_3_months",
+        "total_budget": 9731.53,
+        "total_expenses": 6232.2,
+        "categories": {
+            "Essentials": 927.11,
+            "Food & Entertainment": 998.23,
+            "Shopping": 1497.65,
+            "Health & Wellness": 1382.55,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 52,
+        "date_range": "past_6_months",
+        "total_budget": 2833.61,
+        "total_expenses": 2815.37,
+        "categories": {
+            "Essentials": 465.05,
+            "Food & Entertainment": 344.48,
+            "Shopping": 562.6,
+            "Health & Wellness": 595.36,
+            "Other": 286.53
+        }
+    },
+    {
+        "user_id": 52,
+        "date_range": "past_year",
+        "total_budget": 2000.86,
+        "total_expenses": 1767.33,
+        "categories": {
+            "Essentials": 387.65,
+            "Food & Entertainment": 284.23,
+            "Shopping": 307.12,
+            "Health & Wellness": 411.02,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 53,
+        "date_range": "past_2_weeks",
+        "total_budget": 1516.55,
+        "total_expenses": 1481.6,
+        "categories": {
+            "Essentials": 296.1,
+            "Food & Entertainment": 400.76,
+            "Shopping": 255.74,
+            "Health & Wellness": 237.72,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 53,
+        "date_range": "past_month",
+        "total_budget": 6165.61,
+        "total_expenses": 6569.69,
+        "categories": {
+            "Essentials": 1489.43,
+            "Food & Entertainment": 1024.17,
+            "Shopping": 1536.31,
+            "Health & Wellness": 871.94,
+            "Other": 160.83
+        }
+    },
+    {
+        "user_id": 53,
+        "date_range": "past_3_months",
+        "total_budget": 6836.78,
+        "total_expenses": 6369.82,
+        "categories": {
+            "Essentials": 1689.11,
+            "Food & Entertainment": 1263.47,
+            "Shopping": 1203.57,
+            "Health & Wellness": 1881.81,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 53,
+        "date_range": "past_6_months",
+        "total_budget": 5219.57,
+        "total_expenses": 7328.23,
+        "categories": {
+            "Essentials": 1634.88,
+            "Food & Entertainment": 1270.08,
+            "Shopping": 1589.07,
+            "Health & Wellness": 1846.8,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 53,
+        "date_range": "past_year",
+        "total_budget": 2441.67,
+        "total_expenses": 2711.21,
+        "categories": {
+            "Essentials": 490.07,
+            "Food & Entertainment": 387.73,
+            "Shopping": 777.83,
+            "Health & Wellness": 542.79,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 54,
+        "date_range": "past_2_weeks",
+        "total_budget": 7950.39,
+        "total_expenses": 8109.66,
+        "categories": {
+            "Essentials": 1046.54,
+            "Food & Entertainment": 2371.38,
+            "Shopping": 943.99,
+            "Health & Wellness": 2338.53,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 54,
+        "date_range": "past_month",
+        "total_budget": 7418.45,
+        "total_expenses": 3989.67,
+        "categories": {
+            "Essentials": 719.63,
+            "Food & Entertainment": 426.73,
+            "Shopping": 481.32,
+            "Health & Wellness": 893.96,
+            "Other": 347.27
+        }
+    },
+    {
+        "user_id": 54,
+        "date_range": "past_3_months",
+        "total_budget": 6386.79,
+        "total_expenses": 5344.78,
+        "categories": {
+            "Essentials": 1020.63,
+            "Food & Entertainment": 1255.28,
+            "Shopping": 742.04,
+            "Health & Wellness": 1452.49,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 54,
+        "date_range": "past_6_months",
+        "total_budget": 8882.01,
+        "total_expenses": 11485.21,
+        "categories": {
+            "Essentials": 2612.15,
+            "Food & Entertainment": 3192.84,
+            "Shopping": 1365.57,
+            "Health & Wellness": 2743.56,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 54,
+        "date_range": "past_year",
+        "total_budget": 4246.83,
+        "total_expenses": 4349.33,
+        "categories": {
+            "Essentials": 451.94,
+            "Food & Entertainment": 720.98,
+            "Shopping": 1251.26,
+            "Health & Wellness": 702.66,
+            "Other": 705.01
+        }
+    },
+    {
+        "user_id": 55,
+        "date_range": "past_2_weeks",
+        "total_budget": 7528.07,
+        "total_expenses": 6998.15,
+        "categories": {
+            "Essentials": 1728.14,
+            "Food & Entertainment": 1240.67,
+            "Shopping": 2003.0,
+            "Health & Wellness": 876.84,
+            "Other": 198.72
+        }
+    },
+    {
+        "user_id": 55,
+        "date_range": "past_month",
+        "total_budget": 8475.17,
+        "total_expenses": 5836.3,
+        "categories": {
+            "Essentials": 825.36,
+            "Food & Entertainment": 1555.52,
+            "Shopping": 1068.83,
+            "Health & Wellness": 1746.09,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 55,
+        "date_range": "past_3_months",
+        "total_budget": 8805.07,
+        "total_expenses": 11118.73,
+        "categories": {
+            "Essentials": 2494.2,
+            "Food & Entertainment": 1155.86,
+            "Shopping": 1166.5,
+            "Health & Wellness": 2800.5,
+            "Other": 1818.77
+        }
+    },
+    {
+        "user_id": 55,
+        "date_range": "past_6_months",
+        "total_budget": 4561.18,
+        "total_expenses": 6643.97,
+        "categories": {
+            "Essentials": 1779.6,
+            "Food & Entertainment": 1099.5,
+            "Shopping": 765.73,
+            "Health & Wellness": 789.94,
+            "Other": 1261.42
+        }
+    },
+    {
+        "user_id": 55,
+        "date_range": "past_year",
+        "total_budget": 3757.0,
+        "total_expenses": 4926.7,
+        "categories": {
+            "Essentials": 554.3,
+            "Food & Entertainment": 601.49,
+            "Shopping": 746.48,
+            "Health & Wellness": 1301.86,
+            "Other": 362.96
+        }
+    },
+    {
+        "user_id": 56,
+        "date_range": "past_2_weeks",
+        "total_budget": 4610.46,
+        "total_expenses": 3831.99,
+        "categories": {
+            "Essentials": 393.0,
+            "Food & Entertainment": 584.8,
+            "Shopping": 390.84,
+            "Health & Wellness": 581.55,
+            "Other": 1036.69
+        }
+    },
+    {
+        "user_id": 56,
+        "date_range": "past_month",
+        "total_budget": 9281.0,
+        "total_expenses": 8495.87,
+        "categories": {
+            "Essentials": 1532.5,
+            "Food & Entertainment": 2031.75,
+            "Shopping": 1781.99,
+            "Health & Wellness": 1203.42,
+            "Other": 111.4
+        }
+    },
+    {
+        "user_id": 56,
+        "date_range": "past_3_months",
+        "total_budget": 2195.39,
+        "total_expenses": 1105.01,
+        "categories": {
+            "Essentials": 184.9,
+            "Food & Entertainment": 261.55,
+            "Shopping": 191.38,
+            "Health & Wellness": 141.66,
+            "Other": 164.43
+        }
+    },
+    {
+        "user_id": 56,
+        "date_range": "past_6_months",
+        "total_budget": 3791.87,
+        "total_expenses": 5409.2,
+        "categories": {
+            "Essentials": 1251.04,
+            "Food & Entertainment": 1549.95,
+            "Shopping": 1276.06,
+            "Health & Wellness": 1462.3,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 56,
+        "date_range": "past_year",
+        "total_budget": 3846.21,
+        "total_expenses": 3724.24,
+        "categories": {
+            "Essentials": 571.65,
+            "Food & Entertainment": 985.34,
+            "Shopping": 1066.02,
+            "Health & Wellness": 892.97,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 57,
+        "date_range": "past_2_weeks",
+        "total_budget": 7666.5,
+        "total_expenses": 9358.76,
+        "categories": {
+            "Essentials": 1047.17,
+            "Food & Entertainment": 2581.04,
+            "Shopping": 1340.62,
+            "Health & Wellness": 1608.61,
+            "Other": 1162.44
+        }
+    },
+    {
+        "user_id": 57,
+        "date_range": "past_month",
+        "total_budget": 4813.1,
+        "total_expenses": 5492.32,
+        "categories": {
+            "Essentials": 1594.09,
+            "Food & Entertainment": 1367.55,
+            "Shopping": 1621.93,
+            "Health & Wellness": 1585.06,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 57,
+        "date_range": "past_3_months",
+        "total_budget": 8492.41,
+        "total_expenses": 7224.9,
+        "categories": {
+            "Essentials": 968.24,
+            "Food & Entertainment": 1349.51,
+            "Shopping": 889.19,
+            "Health & Wellness": 1841.78,
+            "Other": 1188.59
+        }
+    },
+    {
+        "user_id": 57,
+        "date_range": "past_6_months",
+        "total_budget": 6825.33,
+        "total_expenses": 6325.05,
+        "categories": {
+            "Essentials": 753.48,
+            "Food & Entertainment": 1723.4,
+            "Shopping": 847.01,
+            "Health & Wellness": 908.31,
+            "Other": 1440.81
+        }
+    },
+    {
+        "user_id": 57,
+        "date_range": "past_year",
+        "total_budget": 4671.38,
+        "total_expenses": 6237.71,
+        "categories": {
+            "Essentials": 1537.88,
+            "Food & Entertainment": 1836.13,
+            "Shopping": 1186.76,
+            "Health & Wellness": 1178.0,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 58,
+        "date_range": "past_2_weeks",
+        "total_budget": 8250.68,
+        "total_expenses": 5245.99,
+        "categories": {
+            "Essentials": 931.08,
+            "Food & Entertainment": 1083.11,
+            "Shopping": 1522.05,
+            "Health & Wellness": 1187.26,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 58,
+        "date_range": "past_month",
+        "total_budget": 7005.09,
+        "total_expenses": 5349.14,
+        "categories": {
+            "Essentials": 1163.66,
+            "Food & Entertainment": 1295.01,
+            "Shopping": 1179.52,
+            "Health & Wellness": 787.85,
+            "Other": 70.11
+        }
+    },
+    {
+        "user_id": 58,
+        "date_range": "past_3_months",
+        "total_budget": 3089.25,
+        "total_expenses": 3888.07,
+        "categories": {
+            "Essentials": 1026.28,
+            "Food & Entertainment": 520.74,
+            "Shopping": 743.88,
+            "Health & Wellness": 409.01,
+            "Other": 441.05
+        }
+    },
+    {
+        "user_id": 58,
+        "date_range": "past_6_months",
+        "total_budget": 1992.27,
+        "total_expenses": 1926.19,
+        "categories": {
+            "Essentials": 394.67,
+            "Food & Entertainment": 203.3,
+            "Shopping": 355.8,
+            "Health & Wellness": 310.26,
+            "Other": 393.9
+        }
+    },
+    {
+        "user_id": 58,
+        "date_range": "past_year",
+        "total_budget": 6323.77,
+        "total_expenses": 5646.87,
+        "categories": {
+            "Essentials": 1252.47,
+            "Food & Entertainment": 1131.59,
+            "Shopping": 1343.02,
+            "Health & Wellness": 767.27,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 59,
+        "date_range": "past_2_weeks",
+        "total_budget": 9934.72,
+        "total_expenses": 7004.99,
+        "categories": {
+            "Essentials": 1544.53,
+            "Food & Entertainment": 1340.66,
+            "Shopping": 1123.25,
+            "Health & Wellness": 1939.37,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 59,
+        "date_range": "past_month",
+        "total_budget": 4582.58,
+        "total_expenses": 6597.86,
+        "categories": {
+            "Essentials": 791.43,
+            "Food & Entertainment": 1468.18,
+            "Shopping": 820.05,
+            "Health & Wellness": 1198.54,
+            "Other": 486.66
+        }
+    },
+    {
+        "user_id": 59,
+        "date_range": "past_3_months",
+        "total_budget": 7220.83,
+        "total_expenses": 7134.78,
+        "categories": {
+            "Essentials": 1175.35,
+            "Food & Entertainment": 1866.17,
+            "Shopping": 1988.3,
+            "Health & Wellness": 1445.69,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 59,
+        "date_range": "past_6_months",
+        "total_budget": 7815.24,
+        "total_expenses": 8740.54,
+        "categories": {
+            "Essentials": 1764.2,
+            "Food & Entertainment": 1471.05,
+            "Shopping": 1950.79,
+            "Health & Wellness": 2192.7,
+            "Other": 208.74
+        }
+    },
+    {
+        "user_id": 59,
+        "date_range": "past_year",
+        "total_budget": 6182.01,
+        "total_expenses": 8052.8,
+        "categories": {
+            "Essentials": 2094.89,
+            "Food & Entertainment": 1995.16,
+            "Shopping": 2322.18,
+            "Health & Wellness": 2173.1,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 60,
+        "date_range": "past_2_weeks",
+        "total_budget": 3264.46,
+        "total_expenses": 3706.18,
+        "categories": {
+            "Essentials": 1096.55,
+            "Food & Entertainment": 603.01,
+            "Shopping": 850.65,
+            "Health & Wellness": 914.13,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 60,
+        "date_range": "past_month",
+        "total_budget": 6275.54,
+        "total_expenses": 6814.93,
+        "categories": {
+            "Essentials": 1523.41,
+            "Food & Entertainment": 959.69,
+            "Shopping": 1309.5,
+            "Health & Wellness": 721.3,
+            "Other": 1420.4
+        }
+    },
+    {
+        "user_id": 60,
+        "date_range": "past_3_months",
+        "total_budget": 4585.47,
+        "total_expenses": 6675.67,
+        "categories": {
+            "Essentials": 1233.82,
+            "Food & Entertainment": 1095.09,
+            "Shopping": 1347.42,
+            "Health & Wellness": 734.4,
+            "Other": 484.9
+        }
+    },
+    {
+        "user_id": 60,
+        "date_range": "past_6_months",
+        "total_budget": 5872.14,
+        "total_expenses": 4890.64,
+        "categories": {
+            "Essentials": 1086.33,
+            "Food & Entertainment": 638.34,
+            "Shopping": 948.67,
+            "Health & Wellness": 688.93,
+            "Other": 935.69
+        }
+    },
+    {
+        "user_id": 60,
+        "date_range": "past_year",
+        "total_budget": 2187.9,
+        "total_expenses": 2467.36,
+        "categories": {
+            "Essentials": 582.67,
+            "Food & Entertainment": 680.46,
+            "Shopping": 462.29,
+            "Health & Wellness": 581.29,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 61,
+        "date_range": "past_2_weeks",
+        "total_budget": 6861.7,
+        "total_expenses": 7207.3,
+        "categories": {
+            "Essentials": 1746.49,
+            "Food & Entertainment": 2054.82,
+            "Shopping": 1524.05,
+            "Health & Wellness": 2077.77,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 61,
+        "date_range": "past_month",
+        "total_budget": 4132.47,
+        "total_expenses": 4817.95,
+        "categories": {
+            "Essentials": 1248.74,
+            "Food & Entertainment": 1422.75,
+            "Shopping": 1198.81,
+            "Health & Wellness": 1138.85,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 61,
+        "date_range": "past_3_months",
+        "total_budget": 5625.51,
+        "total_expenses": 3808.32,
+        "categories": {
+            "Essentials": 493.33,
+            "Food & Entertainment": 466.16,
+            "Shopping": 690.14,
+            "Health & Wellness": 1103.93,
+            "Other": 583.24
+        }
+    },
+    {
+        "user_id": 61,
+        "date_range": "past_6_months",
+        "total_budget": 8310.78,
+        "total_expenses": 5526.95,
+        "categories": {
+            "Essentials": 1138.37,
+            "Food & Entertainment": 1563.62,
+            "Shopping": 1194.75,
+            "Health & Wellness": 1507.08,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 61,
+        "date_range": "past_year",
+        "total_budget": 6295.89,
+        "total_expenses": 8682.05,
+        "categories": {
+            "Essentials": 1869.43,
+            "Food & Entertainment": 1893.25,
+            "Shopping": 1265.32,
+            "Health & Wellness": 1678.05,
+            "Other": 564.91
+        }
+    },
+    {
+        "user_id": 62,
+        "date_range": "past_2_weeks",
+        "total_budget": 7350.78,
+        "total_expenses": 9177.5,
+        "categories": {
+            "Essentials": 2195.16,
+            "Food & Entertainment": 2538.24,
+            "Shopping": 2574.48,
+            "Health & Wellness": 2250.85,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 62,
+        "date_range": "past_month",
+        "total_budget": 5414.19,
+        "total_expenses": 6762.37,
+        "categories": {
+            "Essentials": 945.65,
+            "Food & Entertainment": 1523.96,
+            "Shopping": 1413.55,
+            "Health & Wellness": 1816.02,
+            "Other": 365.97
+        }
+    },
+    {
+        "user_id": 62,
+        "date_range": "past_3_months",
+        "total_budget": 8153.41,
+        "total_expenses": 8409.33,
+        "categories": {
+            "Essentials": 1826.83,
+            "Food & Entertainment": 2208.43,
+            "Shopping": 2336.53,
+            "Health & Wellness": 1450.34,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 62,
+        "date_range": "past_6_months",
+        "total_budget": 7112.88,
+        "total_expenses": 7014.8,
+        "categories": {
+            "Essentials": 1581.23,
+            "Food & Entertainment": 1248.35,
+            "Shopping": 1594.06,
+            "Health & Wellness": 1183.83,
+            "Other": 404.44
+        }
+    },
+    {
+        "user_id": 62,
+        "date_range": "past_year",
+        "total_budget": 2839.85,
+        "total_expenses": 1607.5,
+        "categories": {
+            "Essentials": 355.22,
+            "Food & Entertainment": 272.2,
+            "Shopping": 342.38,
+            "Health & Wellness": 294.06,
+            "Other": 146.06
+        }
+    },
+    {
+        "user_id": 63,
+        "date_range": "past_2_weeks",
+        "total_budget": 3976.21,
+        "total_expenses": 4620.54,
+        "categories": {
+            "Essentials": 1090.33,
+            "Food & Entertainment": 472.8,
+            "Shopping": 606.77,
+            "Health & Wellness": 916.25,
+            "Other": 304.82
+        }
+    },
+    {
+        "user_id": 63,
+        "date_range": "past_month",
+        "total_budget": 5605.11,
+        "total_expenses": 6011.67,
+        "categories": {
+            "Essentials": 732.63,
+            "Food & Entertainment": 642.16,
+            "Shopping": 640.75,
+            "Health & Wellness": 1186.52,
+            "Other": 1130.22
+        }
+    },
+    {
+        "user_id": 63,
+        "date_range": "past_3_months",
+        "total_budget": 6562.12,
+        "total_expenses": 3960.09,
+        "categories": {
+            "Essentials": 1133.57,
+            "Food & Entertainment": 603.69,
+            "Shopping": 817.17,
+            "Health & Wellness": 1083.77,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 63,
+        "date_range": "past_6_months",
+        "total_budget": 6888.51,
+        "total_expenses": 6562.9,
+        "categories": {
+            "Essentials": 952.61,
+            "Food & Entertainment": 1920.72,
+            "Shopping": 1393.59,
+            "Health & Wellness": 1717.65,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 63,
+        "date_range": "past_year",
+        "total_budget": 9572.26,
+        "total_expenses": 10440.2,
+        "categories": {
+            "Essentials": 2361.26,
+            "Food & Entertainment": 2018.04,
+            "Shopping": 1396.34,
+            "Health & Wellness": 1363.45,
+            "Other": 2248.44
+        }
+    },
+    {
+        "user_id": 64,
+        "date_range": "past_2_weeks",
+        "total_budget": 1137.09,
+        "total_expenses": 1562.98,
+        "categories": {
+            "Essentials": 268.84,
+            "Food & Entertainment": 443.21,
+            "Shopping": 351.43,
+            "Health & Wellness": 160.49,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 64,
+        "date_range": "past_month",
+        "total_budget": 9185.91,
+        "total_expenses": 10981.42,
+        "categories": {
+            "Essentials": 1553.8,
+            "Food & Entertainment": 1516.84,
+            "Shopping": 2838.55,
+            "Health & Wellness": 3048.13,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 64,
+        "date_range": "past_3_months",
+        "total_budget": 6659.55,
+        "total_expenses": 8198.31,
+        "categories": {
+            "Essentials": 1094.22,
+            "Food & Entertainment": 1482.42,
+            "Shopping": 2310.84,
+            "Health & Wellness": 1806.72,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 64,
+        "date_range": "past_6_months",
+        "total_budget": 1166.85,
+        "total_expenses": 634.85,
+        "categories": {
+            "Essentials": 95.37,
+            "Food & Entertainment": 107.81,
+            "Shopping": 162.71,
+            "Health & Wellness": 92.27,
+            "Other": 22.32
+        }
+    },
+    {
+        "user_id": 64,
+        "date_range": "past_year",
+        "total_budget": 3561.96,
+        "total_expenses": 3866.08,
+        "categories": {
+            "Essentials": 877.76,
+            "Food & Entertainment": 1057.52,
+            "Shopping": 626.41,
+            "Health & Wellness": 825.65,
+            "Other": 77.33
+        }
+    },
+    {
+        "user_id": 65,
+        "date_range": "past_2_weeks",
+        "total_budget": 3488.37,
+        "total_expenses": 2191.65,
+        "categories": {
+            "Essentials": 422.21,
+            "Food & Entertainment": 376.07,
+            "Shopping": 510.9,
+            "Health & Wellness": 304.76,
+            "Other": 240.67
+        }
+    },
+    {
+        "user_id": 65,
+        "date_range": "past_month",
+        "total_budget": 3647.57,
+        "total_expenses": 2723.45,
+        "categories": {
+            "Essentials": 632.1,
+            "Food & Entertainment": 749.66,
+            "Shopping": 560.24,
+            "Health & Wellness": 461.19,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 65,
+        "date_range": "past_3_months",
+        "total_budget": 6858.14,
+        "total_expenses": 8283.59,
+        "categories": {
+            "Essentials": 2045.03,
+            "Food & Entertainment": 2196.61,
+            "Shopping": 2470.28,
+            "Health & Wellness": 2354.77,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 65,
+        "date_range": "past_6_months",
+        "total_budget": 5885.67,
+        "total_expenses": 4495.8,
+        "categories": {
+            "Essentials": 856.59,
+            "Food & Entertainment": 1103.84,
+            "Shopping": 545.26,
+            "Health & Wellness": 1150.05,
+            "Other": 235.83
+        }
+    },
+    {
+        "user_id": 65,
+        "date_range": "past_year",
+        "total_budget": 5657.18,
+        "total_expenses": 3551.72,
+        "categories": {
+            "Essentials": 873.42,
+            "Food & Entertainment": 764.63,
+            "Shopping": 1014.24,
+            "Health & Wellness": 1012.15,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 66,
+        "date_range": "past_2_weeks",
+        "total_budget": 9816.24,
+        "total_expenses": 13851.71,
+        "categories": {
+            "Essentials": 4108.61,
+            "Food & Entertainment": 1903.68,
+            "Shopping": 1612.46,
+            "Health & Wellness": 1606.6,
+            "Other": 2336.97
+        }
+    },
+    {
+        "user_id": 66,
+        "date_range": "past_month",
+        "total_budget": 4050.44,
+        "total_expenses": 5218.85,
+        "categories": {
+            "Essentials": 742.75,
+            "Food & Entertainment": 1023.16,
+            "Shopping": 888.25,
+            "Health & Wellness": 1395.21,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 66,
+        "date_range": "past_3_months",
+        "total_budget": 9170.56,
+        "total_expenses": 10062.82,
+        "categories": {
+            "Essentials": 1705.13,
+            "Food & Entertainment": 1795.99,
+            "Shopping": 1669.46,
+            "Health & Wellness": 2676.1,
+            "Other": 1117.67
+        }
+    },
+    {
+        "user_id": 66,
+        "date_range": "past_6_months",
+        "total_budget": 5459.18,
+        "total_expenses": 4585.99,
+        "categories": {
+            "Essentials": 959.42,
+            "Food & Entertainment": 576.02,
+            "Shopping": 1091.76,
+            "Health & Wellness": 1318.33,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 66,
+        "date_range": "past_year",
+        "total_budget": 9544.47,
+        "total_expenses": 9244.5,
+        "categories": {
+            "Essentials": 1731.29,
+            "Food & Entertainment": 2396.1,
+            "Shopping": 1305.65,
+            "Health & Wellness": 2569.98,
+            "Other": 89.16
+        }
+    },
+    {
+        "user_id": 67,
+        "date_range": "past_2_weeks",
+        "total_budget": 9718.88,
+        "total_expenses": 12496.07,
+        "categories": {
+            "Essentials": 1942.36,
+            "Food & Entertainment": 1796.09,
+            "Shopping": 1834.72,
+            "Health & Wellness": 1633.88,
+            "Other": 1911.33
+        }
+    },
+    {
+        "user_id": 67,
+        "date_range": "past_month",
+        "total_budget": 8563.17,
+        "total_expenses": 4745.67,
+        "categories": {
+            "Essentials": 802.56,
+            "Food & Entertainment": 1268.9,
+            "Shopping": 995.02,
+            "Health & Wellness": 851.6,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 67,
+        "date_range": "past_3_months",
+        "total_budget": 1529.44,
+        "total_expenses": 2045.93,
+        "categories": {
+            "Essentials": 560.0,
+            "Food & Entertainment": 347.11,
+            "Shopping": 359.22,
+            "Health & Wellness": 431.98,
+            "Other": 114.49
+        }
+    },
+    {
+        "user_id": 67,
+        "date_range": "past_6_months",
+        "total_budget": 8029.28,
+        "total_expenses": 7389.85,
+        "categories": {
+            "Essentials": 2138.56,
+            "Food & Entertainment": 1269.73,
+            "Shopping": 2197.26,
+            "Health & Wellness": 1517.91,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 67,
+        "date_range": "past_year",
+        "total_budget": 2587.04,
+        "total_expenses": 3834.29,
+        "categories": {
+            "Essentials": 935.01,
+            "Food & Entertainment": 621.69,
+            "Shopping": 708.63,
+            "Health & Wellness": 525.32,
+            "Other": 562.94
+        }
+    },
+    {
+        "user_id": 68,
+        "date_range": "past_2_weeks",
+        "total_budget": 7399.05,
+        "total_expenses": 7331.42,
+        "categories": {
+            "Essentials": 1573.94,
+            "Food & Entertainment": 2088.01,
+            "Shopping": 1625.41,
+            "Health & Wellness": 1878.38,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 68,
+        "date_range": "past_month",
+        "total_budget": 6929.37,
+        "total_expenses": 6826.62,
+        "categories": {
+            "Essentials": 1295.46,
+            "Food & Entertainment": 1677.21,
+            "Shopping": 752.66,
+            "Health & Wellness": 709.57,
+            "Other": 1335.54
+        }
+    },
+    {
+        "user_id": 68,
+        "date_range": "past_3_months",
+        "total_budget": 5877.06,
+        "total_expenses": 8712.51,
+        "categories": {
+            "Essentials": 2105.29,
+            "Food & Entertainment": 2084.45,
+            "Shopping": 2347.64,
+            "Health & Wellness": 2383.99,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 68,
+        "date_range": "past_6_months",
+        "total_budget": 5364.77,
+        "total_expenses": 6749.99,
+        "categories": {
+            "Essentials": 1027.28,
+            "Food & Entertainment": 1072.39,
+            "Shopping": 724.56,
+            "Health & Wellness": 1128.26,
+            "Other": 1683.79
+        }
+    },
+    {
+        "user_id": 68,
+        "date_range": "past_year",
+        "total_budget": 9354.46,
+        "total_expenses": 12380.7,
+        "categories": {
+            "Essentials": 2194.34,
+            "Food & Entertainment": 1504.45,
+            "Shopping": 2743.81,
+            "Health & Wellness": 1892.89,
+            "Other": 1907.22
+        }
+    },
+    {
+        "user_id": 69,
+        "date_range": "past_2_weeks",
+        "total_budget": 2139.73,
+        "total_expenses": 2516.46,
+        "categories": {
+            "Essentials": 311.57,
+            "Food & Entertainment": 522.84,
+            "Shopping": 639.18,
+            "Health & Wellness": 581.62,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 69,
+        "date_range": "past_month",
+        "total_budget": 9341.15,
+        "total_expenses": 13363.82,
+        "categories": {
+            "Essentials": 2888.12,
+            "Food & Entertainment": 3023.99,
+            "Shopping": 1601.77,
+            "Health & Wellness": 2594.4,
+            "Other": 1479.63
+        }
+    },
+    {
+        "user_id": 69,
+        "date_range": "past_3_months",
+        "total_budget": 2523.09,
+        "total_expenses": 3344.91,
+        "categories": {
+            "Essentials": 686.22,
+            "Food & Entertainment": 929.28,
+            "Shopping": 780.27,
+            "Health & Wellness": 699.25,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 69,
+        "date_range": "past_6_months",
+        "total_budget": 9901.57,
+        "total_expenses": 14677.74,
+        "categories": {
+            "Essentials": 2771.7,
+            "Food & Entertainment": 3990.92,
+            "Shopping": 1825.23,
+            "Health & Wellness": 3711.52,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 69,
+        "date_range": "past_year",
+        "total_budget": 4817.11,
+        "total_expenses": 5317.79,
+        "categories": {
+            "Essentials": 987.18,
+            "Food & Entertainment": 1323.77,
+            "Shopping": 875.56,
+            "Health & Wellness": 771.8,
+            "Other": 780.6
+        }
+    },
+    {
+        "user_id": 70,
+        "date_range": "past_2_weeks",
+        "total_budget": 8632.32,
+        "total_expenses": 12185.58,
+        "categories": {
+            "Essentials": 2432.96,
+            "Food & Entertainment": 3133.21,
+            "Shopping": 3469.78,
+            "Health & Wellness": 1740.2,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 70,
+        "date_range": "past_month",
+        "total_budget": 2213.22,
+        "total_expenses": 1919.23,
+        "categories": {
+            "Essentials": 335.18,
+            "Food & Entertainment": 231.86,
+            "Shopping": 399.38,
+            "Health & Wellness": 256.65,
+            "Other": 503.67
+        }
+    },
+    {
+        "user_id": 70,
+        "date_range": "past_3_months",
+        "total_budget": 7963.51,
+        "total_expenses": 6489.46,
+        "categories": {
+            "Essentials": 1820.41,
+            "Food & Entertainment": 1720.2,
+            "Shopping": 1396.38,
+            "Health & Wellness": 1859.68,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 70,
+        "date_range": "past_6_months",
+        "total_budget": 6358.26,
+        "total_expenses": 3782.74,
+        "categories": {
+            "Essentials": 804.84,
+            "Food & Entertainment": 424.45,
+            "Shopping": 542.44,
+            "Health & Wellness": 1083.66,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 70,
+        "date_range": "past_year",
+        "total_budget": 2292.87,
+        "total_expenses": 2911.83,
+        "categories": {
+            "Essentials": 846.44,
+            "Food & Entertainment": 504.54,
+            "Shopping": 550.72,
+            "Health & Wellness": 635.0,
+            "Other": 44.67
+        }
+    },
+    {
+        "user_id": 71,
+        "date_range": "past_2_weeks",
+        "total_budget": 2064.15,
+        "total_expenses": 2430.71,
+        "categories": {
+            "Essentials": 577.34,
+            "Food & Entertainment": 461.84,
+            "Shopping": 498.97,
+            "Health & Wellness": 290.18,
+            "Other": 54.11
+        }
+    },
+    {
+        "user_id": 71,
+        "date_range": "past_month",
+        "total_budget": 1760.27,
+        "total_expenses": 2536.43,
+        "categories": {
+            "Essentials": 655.77,
+            "Food & Entertainment": 629.73,
+            "Shopping": 423.61,
+            "Health & Wellness": 323.54,
+            "Other": 211.68
+        }
+    },
+    {
+        "user_id": 71,
+        "date_range": "past_3_months",
+        "total_budget": 9954.9,
+        "total_expenses": 10284.31,
+        "categories": {
+            "Essentials": 2558.8,
+            "Food & Entertainment": 1328.05,
+            "Shopping": 2785.03,
+            "Health & Wellness": 1474.97,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 71,
+        "date_range": "past_6_months",
+        "total_budget": 1495.8,
+        "total_expenses": 1114.91,
+        "categories": {
+            "Essentials": 149.24,
+            "Food & Entertainment": 210.49,
+            "Shopping": 190.53,
+            "Health & Wellness": 282.88,
+            "Other": 159.01
+        }
+    },
+    {
+        "user_id": 71,
+        "date_range": "past_year",
+        "total_budget": 1425.05,
+        "total_expenses": 1250.26,
+        "categories": {
+            "Essentials": 240.05,
+            "Food & Entertainment": 217.09,
+            "Shopping": 263.15,
+            "Health & Wellness": 343.69,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 72,
+        "date_range": "past_2_weeks",
+        "total_budget": 5263.23,
+        "total_expenses": 6664.16,
+        "categories": {
+            "Essentials": 1625.52,
+            "Food & Entertainment": 1672.82,
+            "Shopping": 1664.49,
+            "Health & Wellness": 727.98,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 72,
+        "date_range": "past_month",
+        "total_budget": 2219.08,
+        "total_expenses": 1222.18,
+        "categories": {
+            "Essentials": 236.86,
+            "Food & Entertainment": 188.26,
+            "Shopping": 330.91,
+            "Health & Wellness": 256.73,
+            "Other": 22.36
+        }
+    },
+    {
+        "user_id": 72,
+        "date_range": "past_3_months",
+        "total_budget": 2898.97,
+        "total_expenses": 1532.59,
+        "categories": {
+            "Essentials": 211.26,
+            "Food & Entertainment": 165.66,
+            "Shopping": 250.43,
+            "Health & Wellness": 300.51,
+            "Other": 397.49
+        }
+    },
+    {
+        "user_id": 72,
+        "date_range": "past_6_months",
+        "total_budget": 4137.25,
+        "total_expenses": 5941.7,
+        "categories": {
+            "Essentials": 1105.93,
+            "Food & Entertainment": 1638.88,
+            "Shopping": 1553.93,
+            "Health & Wellness": 1704.74,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 72,
+        "date_range": "past_year",
+        "total_budget": 9983.51,
+        "total_expenses": 10827.49,
+        "categories": {
+            "Essentials": 1444.59,
+            "Food & Entertainment": 2096.16,
+            "Shopping": 1648.87,
+            "Health & Wellness": 2502.21,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 73,
+        "date_range": "past_2_weeks",
+        "total_budget": 1812.22,
+        "total_expenses": 1600.37,
+        "categories": {
+            "Essentials": 459.95,
+            "Food & Entertainment": 275.52,
+            "Shopping": 182.49,
+            "Health & Wellness": 184.91,
+            "Other": 190.34
+        }
+    },
+    {
+        "user_id": 73,
+        "date_range": "past_month",
+        "total_budget": 4741.33,
+        "total_expenses": 2886.02,
+        "categories": {
+            "Essentials": 376.0,
+            "Food & Entertainment": 291.74,
+            "Shopping": 344.48,
+            "Health & Wellness": 411.77,
+            "Other": 1106.62
+        }
+    },
+    {
+        "user_id": 73,
+        "date_range": "past_3_months",
+        "total_budget": 9559.93,
+        "total_expenses": 7522.92,
+        "categories": {
+            "Essentials": 1956.66,
+            "Food & Entertainment": 949.88,
+            "Shopping": 1347.29,
+            "Health & Wellness": 1185.97,
+            "Other": 93.6
+        }
+    },
+    {
+        "user_id": 73,
+        "date_range": "past_6_months",
+        "total_budget": 2726.46,
+        "total_expenses": 1617.4,
+        "categories": {
+            "Essentials": 301.92,
+            "Food & Entertainment": 237.71,
+            "Shopping": 456.42,
+            "Health & Wellness": 163.67,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 73,
+        "date_range": "past_year",
+        "total_budget": 7211.4,
+        "total_expenses": 10101.47,
+        "categories": {
+            "Essentials": 1704.13,
+            "Food & Entertainment": 1305.05,
+            "Shopping": 2962.91,
+            "Health & Wellness": 2724.56,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 74,
+        "date_range": "past_2_weeks",
+        "total_budget": 8361.04,
+        "total_expenses": 6089.27,
+        "categories": {
+            "Essentials": 885.85,
+            "Food & Entertainment": 860.74,
+            "Shopping": 1773.93,
+            "Health & Wellness": 843.14,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 74,
+        "date_range": "past_month",
+        "total_budget": 9507.74,
+        "total_expenses": 8923.29,
+        "categories": {
+            "Essentials": 2184.78,
+            "Food & Entertainment": 1824.85,
+            "Shopping": 1385.47,
+            "Health & Wellness": 955.88,
+            "Other": 1543.89
+        }
+    },
+    {
+        "user_id": 74,
+        "date_range": "past_3_months",
+        "total_budget": 4580.45,
+        "total_expenses": 3431.94,
+        "categories": {
+            "Essentials": 828.61,
+            "Food & Entertainment": 434.63,
+            "Shopping": 549.9,
+            "Health & Wellness": 525.66,
+            "Other": 576.05
+        }
+    },
+    {
+        "user_id": 74,
+        "date_range": "past_6_months",
+        "total_budget": 8404.7,
+        "total_expenses": 10187.37,
+        "categories": {
+            "Essentials": 2455.98,
+            "Food & Entertainment": 2857.22,
+            "Shopping": 2487.58,
+            "Health & Wellness": 1715.84,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 74,
+        "date_range": "past_year",
+        "total_budget": 6074.85,
+        "total_expenses": 3440.62,
+        "categories": {
+            "Essentials": 564.96,
+            "Food & Entertainment": 1005.97,
+            "Shopping": 414.81,
+            "Health & Wellness": 753.53,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 75,
+        "date_range": "past_2_weeks",
+        "total_budget": 8423.82,
+        "total_expenses": 5676.22,
+        "categories": {
+            "Essentials": 981.55,
+            "Food & Entertainment": 954.73,
+            "Shopping": 780.44,
+            "Health & Wellness": 1167.29,
+            "Other": 823.87
+        }
+    },
+    {
+        "user_id": 75,
+        "date_range": "past_month",
+        "total_budget": 4031.54,
+        "total_expenses": 5959.3,
+        "categories": {
+            "Essentials": 751.91,
+            "Food & Entertainment": 1036.84,
+            "Shopping": 742.24,
+            "Health & Wellness": 810.88,
+            "Other": 1630.95
+        }
+    },
+    {
+        "user_id": 75,
+        "date_range": "past_3_months",
+        "total_budget": 8227.57,
+        "total_expenses": 9171.61,
+        "categories": {
+            "Essentials": 2327.66,
+            "Food & Entertainment": 1494.17,
+            "Shopping": 1773.04,
+            "Health & Wellness": 1362.4,
+            "Other": 485.58
+        }
+    },
+    {
+        "user_id": 75,
+        "date_range": "past_6_months",
+        "total_budget": 6429.79,
+        "total_expenses": 3856.08,
+        "categories": {
+            "Essentials": 939.39,
+            "Food & Entertainment": 959.1,
+            "Shopping": 409.75,
+            "Health & Wellness": 499.93,
+            "Other": 335.81
+        }
+    },
+    {
+        "user_id": 75,
+        "date_range": "past_year",
+        "total_budget": 9798.61,
+        "total_expenses": 13596.99,
+        "categories": {
+            "Essentials": 1684.33,
+            "Food & Entertainment": 3410.17,
+            "Shopping": 2244.95,
+            "Health & Wellness": 3910.61,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 76,
+        "date_range": "past_2_weeks",
+        "total_budget": 6232.98,
+        "total_expenses": 6460.91,
+        "categories": {
+            "Essentials": 1754.53,
+            "Food & Entertainment": 1679.09,
+            "Shopping": 1129.74,
+            "Health & Wellness": 1757.77,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 76,
+        "date_range": "past_month",
+        "total_budget": 3386.47,
+        "total_expenses": 3651.49,
+        "categories": {
+            "Essentials": 968.79,
+            "Food & Entertainment": 1056.57,
+            "Shopping": 859.14,
+            "Health & Wellness": 557.41,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 76,
+        "date_range": "past_3_months",
+        "total_budget": 3463.79,
+        "total_expenses": 3976.68,
+        "categories": {
+            "Essentials": 840.27,
+            "Food & Entertainment": 791.27,
+            "Shopping": 418.3,
+            "Health & Wellness": 860.3,
+            "Other": 535.17
+        }
+    },
+    {
+        "user_id": 76,
+        "date_range": "past_6_months",
+        "total_budget": 7541.76,
+        "total_expenses": 10223.34,
+        "categories": {
+            "Essentials": 1440.78,
+            "Food & Entertainment": 2289.93,
+            "Shopping": 2589.73,
+            "Health & Wellness": 1537.92,
+            "Other": 263.4
+        }
+    },
+    {
+        "user_id": 76,
+        "date_range": "past_year",
+        "total_budget": 7468.09,
+        "total_expenses": 8236.06,
+        "categories": {
+            "Essentials": 1598.72,
+            "Food & Entertainment": 1685.4,
+            "Shopping": 1520.27,
+            "Health & Wellness": 2196.21,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 77,
+        "date_range": "past_2_weeks",
+        "total_budget": 5936.06,
+        "total_expenses": 4829.61,
+        "categories": {
+            "Essentials": 1135.93,
+            "Food & Entertainment": 1359.8,
+            "Shopping": 1153.1,
+            "Health & Wellness": 1369.63,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 77,
+        "date_range": "past_month",
+        "total_budget": 6812.99,
+        "total_expenses": 5550.61,
+        "categories": {
+            "Essentials": 735.22,
+            "Food & Entertainment": 1041.44,
+            "Shopping": 1570.17,
+            "Health & Wellness": 1177.04,
+            "Other": 461.99
+        }
+    },
+    {
+        "user_id": 77,
+        "date_range": "past_3_months",
+        "total_budget": 7437.0,
+        "total_expenses": 11114.4,
+        "categories": {
+            "Essentials": 1798.18,
+            "Food & Entertainment": 1672.46,
+            "Shopping": 1791.77,
+            "Health & Wellness": 1922.83,
+            "Other": 822.74
+        }
+    },
+    {
+        "user_id": 77,
+        "date_range": "past_6_months",
+        "total_budget": 1412.61,
+        "total_expenses": 2079.72,
+        "categories": {
+            "Essentials": 277.04,
+            "Food & Entertainment": 485.03,
+            "Shopping": 367.77,
+            "Health & Wellness": 553.56,
+            "Other": 82.34
+        }
+    },
+    {
+        "user_id": 77,
+        "date_range": "past_year",
+        "total_budget": 3811.03,
+        "total_expenses": 3648.49,
+        "categories": {
+            "Essentials": 956.01,
+            "Food & Entertainment": 416.95,
+            "Shopping": 724.49,
+            "Health & Wellness": 841.08,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 78,
+        "date_range": "past_2_weeks",
+        "total_budget": 7702.8,
+        "total_expenses": 10732.76,
+        "categories": {
+            "Essentials": 2734.8,
+            "Food & Entertainment": 1581.86,
+            "Shopping": 1844.49,
+            "Health & Wellness": 2789.67,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 78,
+        "date_range": "past_month",
+        "total_budget": 4124.74,
+        "total_expenses": 2610.13,
+        "categories": {
+            "Essentials": 512.18,
+            "Food & Entertainment": 776.32,
+            "Shopping": 312.76,
+            "Health & Wellness": 288.24,
+            "Other": 396.85
+        }
+    },
+    {
+        "user_id": 78,
+        "date_range": "past_3_months",
+        "total_budget": 2361.98,
+        "total_expenses": 3135.88,
+        "categories": {
+            "Essentials": 804.65,
+            "Food & Entertainment": 352.12,
+            "Shopping": 449.44,
+            "Health & Wellness": 644.17,
+            "Other": 507.65
+        }
+    },
+    {
+        "user_id": 78,
+        "date_range": "past_6_months",
+        "total_budget": 3362.9,
+        "total_expenses": 1810.07,
+        "categories": {
+            "Essentials": 511.82,
+            "Food & Entertainment": 503.37,
+            "Shopping": 487.76,
+            "Health & Wellness": 191.02,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 78,
+        "date_range": "past_year",
+        "total_budget": 8435.13,
+        "total_expenses": 11605.42,
+        "categories": {
+            "Essentials": 2502.29,
+            "Food & Entertainment": 3432.12,
+            "Shopping": 1302.52,
+            "Health & Wellness": 1771.72,
+            "Other": 1426.04
+        }
+    },
+    {
+        "user_id": 79,
+        "date_range": "past_2_weeks",
+        "total_budget": 3697.48,
+        "total_expenses": 3907.24,
+        "categories": {
+            "Essentials": 603.35,
+            "Food & Entertainment": 484.6,
+            "Shopping": 458.79,
+            "Health & Wellness": 985.94,
+            "Other": 216.18
+        }
+    },
+    {
+        "user_id": 79,
+        "date_range": "past_month",
+        "total_budget": 3194.22,
+        "total_expenses": 3001.91,
+        "categories": {
+            "Essentials": 692.01,
+            "Food & Entertainment": 829.82,
+            "Shopping": 871.5,
+            "Health & Wellness": 402.39,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 79,
+        "date_range": "past_3_months",
+        "total_budget": 5636.57,
+        "total_expenses": 3533.86,
+        "categories": {
+            "Essentials": 778.77,
+            "Food & Entertainment": 979.51,
+            "Shopping": 958.02,
+            "Health & Wellness": 949.81,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 79,
+        "date_range": "past_6_months",
+        "total_budget": 7521.62,
+        "total_expenses": 8556.37,
+        "categories": {
+            "Essentials": 1341.91,
+            "Food & Entertainment": 2514.6,
+            "Shopping": 1370.51,
+            "Health & Wellness": 2048.6,
+            "Other": 301.27
+        }
+    },
+    {
+        "user_id": 79,
+        "date_range": "past_year",
+        "total_budget": 2070.11,
+        "total_expenses": 2465.23,
+        "categories": {
+            "Essentials": 557.9,
+            "Food & Entertainment": 505.34,
+            "Shopping": 731.98,
+            "Health & Wellness": 497.65,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 80,
+        "date_range": "past_2_weeks",
+        "total_budget": 5833.35,
+        "total_expenses": 3763.96,
+        "categories": {
+            "Essentials": 817.8,
+            "Food & Entertainment": 485.36,
+            "Shopping": 415.81,
+            "Health & Wellness": 601.25,
+            "Other": 792.56
+        }
+    },
+    {
+        "user_id": 80,
+        "date_range": "past_month",
+        "total_budget": 5441.31,
+        "total_expenses": 6025.82,
+        "categories": {
+            "Essentials": 994.2,
+            "Food & Entertainment": 1568.12,
+            "Shopping": 1618.91,
+            "Health & Wellness": 1056.0,
+            "Other": 47.33
+        }
+    },
+    {
+        "user_id": 80,
+        "date_range": "past_3_months",
+        "total_budget": 2398.31,
+        "total_expenses": 3460.18,
+        "categories": {
+            "Essentials": 502.35,
+            "Food & Entertainment": 495.24,
+            "Shopping": 771.12,
+            "Health & Wellness": 1037.24,
+            "Other": 23.64
+        }
+    },
+    {
+        "user_id": 80,
+        "date_range": "past_6_months",
+        "total_budget": 7411.61,
+        "total_expenses": 10634.2,
+        "categories": {
+            "Essentials": 2217.55,
+            "Food & Entertainment": 2479.14,
+            "Shopping": 2803.37,
+            "Health & Wellness": 2072.61,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 80,
+        "date_range": "past_year",
+        "total_budget": 8421.17,
+        "total_expenses": 10220.83,
+        "categories": {
+            "Essentials": 2484.21,
+            "Food & Entertainment": 2000.65,
+            "Shopping": 1728.72,
+            "Health & Wellness": 2452.16,
+            "Other": 464.71
+        }
+    },
+    {
+        "user_id": 81,
+        "date_range": "past_2_weeks",
+        "total_budget": 8233.35,
+        "total_expenses": 8593.8,
+        "categories": {
+            "Essentials": 1829.31,
+            "Food & Entertainment": 2332.52,
+            "Shopping": 1570.98,
+            "Health & Wellness": 2318.59,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 81,
+        "date_range": "past_month",
+        "total_budget": 3296.46,
+        "total_expenses": 4794.76,
+        "categories": {
+            "Essentials": 609.0,
+            "Food & Entertainment": 1009.23,
+            "Shopping": 551.08,
+            "Health & Wellness": 845.69,
+            "Other": 651.77
+        }
+    },
+    {
+        "user_id": 81,
+        "date_range": "past_3_months",
+        "total_budget": 9808.02,
+        "total_expenses": 7217.61,
+        "categories": {
+            "Essentials": 1148.9,
+            "Food & Entertainment": 1800.23,
+            "Shopping": 1403.51,
+            "Health & Wellness": 927.64,
+            "Other": 306.52
+        }
+    },
+    {
+        "user_id": 81,
+        "date_range": "past_6_months",
+        "total_budget": 7553.56,
+        "total_expenses": 11117.91,
+        "categories": {
+            "Essentials": 2776.3,
+            "Food & Entertainment": 1534.42,
+            "Shopping": 2469.95,
+            "Health & Wellness": 2991.35,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 81,
+        "date_range": "past_year",
+        "total_budget": 1843.17,
+        "total_expenses": 2143.2,
+        "categories": {
+            "Essentials": 564.75,
+            "Food & Entertainment": 376.9,
+            "Shopping": 385.15,
+            "Health & Wellness": 418.88,
+            "Other": 105.69
+        }
+    },
+    {
+        "user_id": 82,
+        "date_range": "past_2_weeks",
+        "total_budget": 8885.1,
+        "total_expenses": 9150.08,
+        "categories": {
+            "Essentials": 2111.2,
+            "Food & Entertainment": 2124.05,
+            "Shopping": 2017.18,
+            "Health & Wellness": 1751.46,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 82,
+        "date_range": "past_month",
+        "total_budget": 9826.75,
+        "total_expenses": 8476.54,
+        "categories": {
+            "Essentials": 1651.08,
+            "Food & Entertainment": 2002.85,
+            "Shopping": 2382.63,
+            "Health & Wellness": 2092.75,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 82,
+        "date_range": "past_3_months",
+        "total_budget": 6464.16,
+        "total_expenses": 9569.05,
+        "categories": {
+            "Essentials": 2537.59,
+            "Food & Entertainment": 2236.34,
+            "Shopping": 1644.3,
+            "Health & Wellness": 2165.78,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 82,
+        "date_range": "past_6_months",
+        "total_budget": 2493.38,
+        "total_expenses": 3088.34,
+        "categories": {
+            "Essentials": 708.79,
+            "Food & Entertainment": 510.91,
+            "Shopping": 417.92,
+            "Health & Wellness": 789.54,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 82,
+        "date_range": "past_year",
+        "total_budget": 7243.59,
+        "total_expenses": 7848.1,
+        "categories": {
+            "Essentials": 787.53,
+            "Food & Entertainment": 1431.72,
+            "Shopping": 1861.14,
+            "Health & Wellness": 2153.68,
+            "Other": 324.77
+        }
+    },
+    {
+        "user_id": 83,
+        "date_range": "past_2_weeks",
+        "total_budget": 4839.39,
+        "total_expenses": 2809.32,
+        "categories": {
+            "Essentials": 393.81,
+            "Food & Entertainment": 822.74,
+            "Shopping": 516.16,
+            "Health & Wellness": 603.64,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 83,
+        "date_range": "past_month",
+        "total_budget": 9897.75,
+        "total_expenses": 10615.58,
+        "categories": {
+            "Essentials": 1902.91,
+            "Food & Entertainment": 1569.71,
+            "Shopping": 1369.19,
+            "Health & Wellness": 2088.93,
+            "Other": 1202.38
+        }
+    },
+    {
+        "user_id": 83,
+        "date_range": "past_3_months",
+        "total_budget": 5604.63,
+        "total_expenses": 4188.26,
+        "categories": {
+            "Essentials": 801.43,
+            "Food & Entertainment": 439.7,
+            "Shopping": 449.07,
+            "Health & Wellness": 694.89,
+            "Other": 805.59
+        }
+    },
+    {
+        "user_id": 83,
+        "date_range": "past_6_months",
+        "total_budget": 9444.23,
+        "total_expenses": 11265.58,
+        "categories": {
+            "Essentials": 3376.17,
+            "Food & Entertainment": 1600.47,
+            "Shopping": 2680.34,
+            "Health & Wellness": 2498.15,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 83,
+        "date_range": "past_year",
+        "total_budget": 7312.89,
+        "total_expenses": 9598.67,
+        "categories": {
+            "Essentials": 1900.79,
+            "Food & Entertainment": 1464.36,
+            "Shopping": 1077.54,
+            "Health & Wellness": 1889.55,
+            "Other": 2053.69
+        }
+    },
+    {
+        "user_id": 84,
+        "date_range": "past_2_weeks",
+        "total_budget": 6797.94,
+        "total_expenses": 8146.57,
+        "categories": {
+            "Essentials": 1622.26,
+            "Food & Entertainment": 1426.08,
+            "Shopping": 2429.95,
+            "Health & Wellness": 2298.43,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 84,
+        "date_range": "past_month",
+        "total_budget": 4887.83,
+        "total_expenses": 5633.84,
+        "categories": {
+            "Essentials": 837.07,
+            "Food & Entertainment": 1156.26,
+            "Shopping": 1533.47,
+            "Health & Wellness": 747.9,
+            "Other": 283.41
+        }
+    },
+    {
+        "user_id": 84,
+        "date_range": "past_3_months",
+        "total_budget": 4036.89,
+        "total_expenses": 5164.05,
+        "categories": {
+            "Essentials": 1499.59,
+            "Food & Entertainment": 1156.79,
+            "Shopping": 995.11,
+            "Health & Wellness": 704.67,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 84,
+        "date_range": "past_6_months",
+        "total_budget": 7446.7,
+        "total_expenses": 6202.99,
+        "categories": {
+            "Essentials": 895.29,
+            "Food & Entertainment": 1731.6,
+            "Shopping": 1398.73,
+            "Health & Wellness": 1495.89,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 84,
+        "date_range": "past_year",
+        "total_budget": 3191.62,
+        "total_expenses": 2397.55,
+        "categories": {
+            "Essentials": 714.69,
+            "Food & Entertainment": 429.51,
+            "Shopping": 542.39,
+            "Health & Wellness": 683.75,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 85,
+        "date_range": "past_2_weeks",
+        "total_budget": 7253.19,
+        "total_expenses": 6008.5,
+        "categories": {
+            "Essentials": 1510.51,
+            "Food & Entertainment": 1580.11,
+            "Shopping": 839.96,
+            "Health & Wellness": 657.54,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 85,
+        "date_range": "past_month",
+        "total_budget": 2605.32,
+        "total_expenses": 2545.95,
+        "categories": {
+            "Essentials": 502.3,
+            "Food & Entertainment": 428.11,
+            "Shopping": 343.6,
+            "Health & Wellness": 354.29,
+            "Other": 449.86
+        }
+    },
+    {
+        "user_id": 85,
+        "date_range": "past_3_months",
+        "total_budget": 7128.1,
+        "total_expenses": 10215.67,
+        "categories": {
+            "Essentials": 1948.69,
+            "Food & Entertainment": 2076.34,
+            "Shopping": 1328.98,
+            "Health & Wellness": 2878.72,
+            "Other": 912.42
+        }
+    },
+    {
+        "user_id": 85,
+        "date_range": "past_6_months",
+        "total_budget": 1006.99,
+        "total_expenses": 993.97,
+        "categories": {
+            "Essentials": 279.14,
+            "Food & Entertainment": 158.53,
+            "Shopping": 225.73,
+            "Health & Wellness": 193.55,
+            "Other": 6.64
+        }
+    },
+    {
+        "user_id": 85,
+        "date_range": "past_year",
+        "total_budget": 9857.89,
+        "total_expenses": 10506.89,
+        "categories": {
+            "Essentials": 1976.59,
+            "Food & Entertainment": 2411.9,
+            "Shopping": 2712.38,
+            "Health & Wellness": 2241.98,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 86,
+        "date_range": "past_2_weeks",
+        "total_budget": 2646.31,
+        "total_expenses": 1762.07,
+        "categories": {
+            "Essentials": 277.8,
+            "Food & Entertainment": 228.37,
+            "Shopping": 344.0,
+            "Health & Wellness": 486.84,
+            "Other": 21.04
+        }
+    },
+    {
+        "user_id": 86,
+        "date_range": "past_month",
+        "total_budget": 2880.6,
+        "total_expenses": 2924.48,
+        "categories": {
+            "Essentials": 806.12,
+            "Food & Entertainment": 689.52,
+            "Shopping": 762.89,
+            "Health & Wellness": 307.4,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 86,
+        "date_range": "past_3_months",
+        "total_budget": 3183.46,
+        "total_expenses": 2325.14,
+        "categories": {
+            "Essentials": 332.78,
+            "Food & Entertainment": 467.14,
+            "Shopping": 386.35,
+            "Health & Wellness": 380.01,
+            "Other": 232.41
+        }
+    },
+    {
+        "user_id": 86,
+        "date_range": "past_6_months",
+        "total_budget": 1940.41,
+        "total_expenses": 2805.87,
+        "categories": {
+            "Essentials": 690.57,
+            "Food & Entertainment": 343.59,
+            "Shopping": 372.61,
+            "Health & Wellness": 638.28,
+            "Other": 368.31
+        }
+    },
+    {
+        "user_id": 86,
+        "date_range": "past_year",
+        "total_budget": 8464.74,
+        "total_expenses": 5423.79,
+        "categories": {
+            "Essentials": 786.9,
+            "Food & Entertainment": 571.61,
+            "Shopping": 1291.2,
+            "Health & Wellness": 1322.21,
+            "Other": 85.48
+        }
+    },
+    {
+        "user_id": 87,
+        "date_range": "past_2_weeks",
+        "total_budget": 9029.95,
+        "total_expenses": 12997.2,
+        "categories": {
+            "Essentials": 3667.03,
+            "Food & Entertainment": 3140.21,
+            "Shopping": 2581.83,
+            "Health & Wellness": 1992.04,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 87,
+        "date_range": "past_month",
+        "total_budget": 5439.88,
+        "total_expenses": 7913.71,
+        "categories": {
+            "Essentials": 2257.93,
+            "Food & Entertainment": 1980.82,
+            "Shopping": 1840.03,
+            "Health & Wellness": 1872.04,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 87,
+        "date_range": "past_3_months",
+        "total_budget": 6498.11,
+        "total_expenses": 4537.46,
+        "categories": {
+            "Essentials": 633.4,
+            "Food & Entertainment": 1147.76,
+            "Shopping": 1167.84,
+            "Health & Wellness": 926.1,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 87,
+        "date_range": "past_6_months",
+        "total_budget": 1972.06,
+        "total_expenses": 2629.86,
+        "categories": {
+            "Essentials": 624.18,
+            "Food & Entertainment": 531.65,
+            "Shopping": 690.72,
+            "Health & Wellness": 515.18,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 87,
+        "date_range": "past_year",
+        "total_budget": 8143.24,
+        "total_expenses": 4802.41,
+        "categories": {
+            "Essentials": 1192.48,
+            "Food & Entertainment": 993.54,
+            "Shopping": 1280.02,
+            "Health & Wellness": 720.03,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 88,
+        "date_range": "past_2_weeks",
+        "total_budget": 3431.44,
+        "total_expenses": 3480.8,
+        "categories": {
+            "Essentials": 731.58,
+            "Food & Entertainment": 1015.31,
+            "Shopping": 491.14,
+            "Health & Wellness": 873.67,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 88,
+        "date_range": "past_month",
+        "total_budget": 6748.43,
+        "total_expenses": 7055.19,
+        "categories": {
+            "Essentials": 1730.97,
+            "Food & Entertainment": 2092.46,
+            "Shopping": 1325.47,
+            "Health & Wellness": 2017.44,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 88,
+        "date_range": "past_3_months",
+        "total_budget": 5915.64,
+        "total_expenses": 8111.22,
+        "categories": {
+            "Essentials": 1688.11,
+            "Food & Entertainment": 1176.08,
+            "Shopping": 1606.68,
+            "Health & Wellness": 1346.68,
+            "Other": 713.39
+        }
+    },
+    {
+        "user_id": 88,
+        "date_range": "past_6_months",
+        "total_budget": 8326.73,
+        "total_expenses": 10087.51,
+        "categories": {
+            "Essentials": 3004.2,
+            "Food & Entertainment": 2845.96,
+            "Shopping": 1501.42,
+            "Health & Wellness": 2882.97,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 88,
+        "date_range": "past_year",
+        "total_budget": 2619.52,
+        "total_expenses": 3729.35,
+        "categories": {
+            "Essentials": 592.16,
+            "Food & Entertainment": 1054.53,
+            "Shopping": 1090.15,
+            "Health & Wellness": 744.78,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 89,
+        "date_range": "past_2_weeks",
+        "total_budget": 9309.44,
+        "total_expenses": 6736.07,
+        "categories": {
+            "Essentials": 1686.09,
+            "Food & Entertainment": 1368.17,
+            "Shopping": 2007.64,
+            "Health & Wellness": 756.6,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 89,
+        "date_range": "past_month",
+        "total_budget": 8592.18,
+        "total_expenses": 11784.94,
+        "categories": {
+            "Essentials": 1481.48,
+            "Food & Entertainment": 3350.17,
+            "Shopping": 1502.82,
+            "Health & Wellness": 2265.47,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 89,
+        "date_range": "past_3_months",
+        "total_budget": 6541.98,
+        "total_expenses": 3484.67,
+        "categories": {
+            "Essentials": 673.73,
+            "Food & Entertainment": 560.94,
+            "Shopping": 658.68,
+            "Health & Wellness": 691.79,
+            "Other": 134.38
+        }
+    },
+    {
+        "user_id": 89,
+        "date_range": "past_6_months",
+        "total_budget": 5037.25,
+        "total_expenses": 5855.05,
+        "categories": {
+            "Essentials": 666.05,
+            "Food & Entertainment": 990.86,
+            "Shopping": 1034.11,
+            "Health & Wellness": 1061.01,
+            "Other": 408.34
+        }
+    },
+    {
+        "user_id": 89,
+        "date_range": "past_year",
+        "total_budget": 6119.74,
+        "total_expenses": 6672.28,
+        "categories": {
+            "Essentials": 1952.79,
+            "Food & Entertainment": 1010.38,
+            "Shopping": 1605.05,
+            "Health & Wellness": 1533.89,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 90,
+        "date_range": "past_2_weeks",
+        "total_budget": 6963.82,
+        "total_expenses": 10107.98,
+        "categories": {
+            "Essentials": 1692.49,
+            "Food & Entertainment": 2457.44,
+            "Shopping": 2381.12,
+            "Health & Wellness": 2622.44,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 90,
+        "date_range": "past_month",
+        "total_budget": 7287.84,
+        "total_expenses": 9076.35,
+        "categories": {
+            "Essentials": 1226.35,
+            "Food & Entertainment": 1930.94,
+            "Shopping": 2112.86,
+            "Health & Wellness": 2654.46,
+            "Other": 124.47
+        }
+    },
+    {
+        "user_id": 90,
+        "date_range": "past_3_months",
+        "total_budget": 1443.59,
+        "total_expenses": 1263.54,
+        "categories": {
+            "Essentials": 377.05,
+            "Food & Entertainment": 217.47,
+            "Shopping": 199.23,
+            "Health & Wellness": 272.83,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 90,
+        "date_range": "past_6_months",
+        "total_budget": 6633.9,
+        "total_expenses": 6814.93,
+        "categories": {
+            "Essentials": 1371.9,
+            "Food & Entertainment": 748.99,
+            "Shopping": 1763.03,
+            "Health & Wellness": 1812.91,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 90,
+        "date_range": "past_year",
+        "total_budget": 6342.13,
+        "total_expenses": 3304.59,
+        "categories": {
+            "Essentials": 913.14,
+            "Food & Entertainment": 722.37,
+            "Shopping": 825.23,
+            "Health & Wellness": 465.62,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 91,
+        "date_range": "past_2_weeks",
+        "total_budget": 7264.66,
+        "total_expenses": 10797.69,
+        "categories": {
+            "Essentials": 2734.57,
+            "Food & Entertainment": 1664.77,
+            "Shopping": 1130.04,
+            "Health & Wellness": 2004.88,
+            "Other": 645.26
+        }
+    },
+    {
+        "user_id": 91,
+        "date_range": "past_month",
+        "total_budget": 2756.32,
+        "total_expenses": 3857.28,
+        "categories": {
+            "Essentials": 516.74,
+            "Food & Entertainment": 774.06,
+            "Shopping": 862.03,
+            "Health & Wellness": 482.76,
+            "Other": 303.9
+        }
+    },
+    {
+        "user_id": 91,
+        "date_range": "past_3_months",
+        "total_budget": 1176.69,
+        "total_expenses": 1389.97,
+        "categories": {
+            "Essentials": 239.36,
+            "Food & Entertainment": 295.32,
+            "Shopping": 293.74,
+            "Health & Wellness": 155.94,
+            "Other": 124.08
+        }
+    },
+    {
+        "user_id": 91,
+        "date_range": "past_6_months",
+        "total_budget": 4583.7,
+        "total_expenses": 3030.54,
+        "categories": {
+            "Essentials": 866.18,
+            "Food & Entertainment": 653.24,
+            "Shopping": 658.28,
+            "Health & Wellness": 517.16,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 91,
+        "date_range": "past_year",
+        "total_budget": 4578.9,
+        "total_expenses": 5633.96,
+        "categories": {
+            "Essentials": 1335.67,
+            "Food & Entertainment": 672.8,
+            "Shopping": 1553.27,
+            "Health & Wellness": 1212.53,
+            "Other": 7.99
+        }
+    },
+    {
+        "user_id": 92,
+        "date_range": "past_2_weeks",
+        "total_budget": 6820.98,
+        "total_expenses": 9709.49,
+        "categories": {
+            "Essentials": 1228.77,
+            "Food & Entertainment": 2896.18,
+            "Shopping": 1422.21,
+            "Health & Wellness": 1387.11,
+            "Other": 1281.33
+        }
+    },
+    {
+        "user_id": 92,
+        "date_range": "past_month",
+        "total_budget": 5067.33,
+        "total_expenses": 4263.03,
+        "categories": {
+            "Essentials": 1202.73,
+            "Food & Entertainment": 549.47,
+            "Shopping": 987.68,
+            "Health & Wellness": 692.81,
+            "Other": 351.07
+        }
+    },
+    {
+        "user_id": 92,
+        "date_range": "past_3_months",
+        "total_budget": 2782.72,
+        "total_expenses": 1549.33,
+        "categories": {
+            "Essentials": 422.42,
+            "Food & Entertainment": 456.81,
+            "Shopping": 355.22,
+            "Health & Wellness": 242.87,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 92,
+        "date_range": "past_6_months",
+        "total_budget": 3359.58,
+        "total_expenses": 1817.53,
+        "categories": {
+            "Essentials": 392.78,
+            "Food & Entertainment": 486.34,
+            "Shopping": 504.51,
+            "Health & Wellness": 510.58,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 92,
+        "date_range": "past_year",
+        "total_budget": 5627.42,
+        "total_expenses": 6405.02,
+        "categories": {
+            "Essentials": 1024.43,
+            "Food & Entertainment": 1731.22,
+            "Shopping": 1302.13,
+            "Health & Wellness": 994.35,
+            "Other": 409.87
+        }
+    },
+    {
+        "user_id": 93,
+        "date_range": "past_2_weeks",
+        "total_budget": 6125.47,
+        "total_expenses": 8970.13,
+        "categories": {
+            "Essentials": 2073.38,
+            "Food & Entertainment": 2533.81,
+            "Shopping": 1131.29,
+            "Health & Wellness": 1802.25,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 93,
+        "date_range": "past_month",
+        "total_budget": 8347.71,
+        "total_expenses": 5223.15,
+        "categories": {
+            "Essentials": 1141.75,
+            "Food & Entertainment": 918.55,
+            "Shopping": 1279.3,
+            "Health & Wellness": 786.9,
+            "Other": 258.38
+        }
+    },
+    {
+        "user_id": 93,
+        "date_range": "past_3_months",
+        "total_budget": 1654.78,
+        "total_expenses": 1166.49,
+        "categories": {
+            "Essentials": 220.7,
+            "Food & Entertainment": 135.1,
+            "Shopping": 282.6,
+            "Health & Wellness": 129.5,
+            "Other": 231.19
+        }
+    },
+    {
+        "user_id": 93,
+        "date_range": "past_6_months",
+        "total_budget": 1760.38,
+        "total_expenses": 1167.4,
+        "categories": {
+            "Essentials": 171.07,
+            "Food & Entertainment": 254.89,
+            "Shopping": 155.0,
+            "Health & Wellness": 139.22,
+            "Other": 295.86
+        }
+    },
+    {
+        "user_id": 93,
+        "date_range": "past_year",
+        "total_budget": 1464.11,
+        "total_expenses": 1686.09,
+        "categories": {
+            "Essentials": 266.83,
+            "Food & Entertainment": 243.75,
+            "Shopping": 169.63,
+            "Health & Wellness": 332.73,
+            "Other": 377.97
+        }
+    },
+    {
+        "user_id": 94,
+        "date_range": "past_2_weeks",
+        "total_budget": 4321.2,
+        "total_expenses": 5808.79,
+        "categories": {
+            "Essentials": 854.25,
+            "Food & Entertainment": 1372.63,
+            "Shopping": 973.18,
+            "Health & Wellness": 1039.63,
+            "Other": 934.47
+        }
+    },
+    {
+        "user_id": 94,
+        "date_range": "past_month",
+        "total_budget": 4544.5,
+        "total_expenses": 6381.11,
+        "categories": {
+            "Essentials": 1508.34,
+            "Food & Entertainment": 1859.69,
+            "Shopping": 842.63,
+            "Health & Wellness": 1098.44,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 94,
+        "date_range": "past_3_months",
+        "total_budget": 4191.64,
+        "total_expenses": 2930.65,
+        "categories": {
+            "Essentials": 872.36,
+            "Food & Entertainment": 770.28,
+            "Shopping": 567.64,
+            "Health & Wellness": 742.56,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 94,
+        "date_range": "past_6_months",
+        "total_budget": 5047.6,
+        "total_expenses": 4898.89,
+        "categories": {
+            "Essentials": 1089.46,
+            "Food & Entertainment": 561.78,
+            "Shopping": 1401.55,
+            "Health & Wellness": 1249.03,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 94,
+        "date_range": "past_year",
+        "total_budget": 4506.74,
+        "total_expenses": 2930.57,
+        "categories": {
+            "Essentials": 683.64,
+            "Food & Entertainment": 356.12,
+            "Shopping": 706.14,
+            "Health & Wellness": 661.79,
+            "Other": 119.14
+        }
+    },
+    {
+        "user_id": 95,
+        "date_range": "past_2_weeks",
+        "total_budget": 2080.09,
+        "total_expenses": 1181.53,
+        "categories": {
+            "Essentials": 180.86,
+            "Food & Entertainment": 229.77,
+            "Shopping": 206.85,
+            "Health & Wellness": 264.67,
+            "Other": 127.46
+        }
+    },
+    {
+        "user_id": 95,
+        "date_range": "past_month",
+        "total_budget": 4042.47,
+        "total_expenses": 5533.36,
+        "categories": {
+            "Essentials": 869.39,
+            "Food & Entertainment": 887.16,
+            "Shopping": 787.0,
+            "Health & Wellness": 994.0,
+            "Other": 1334.91
+        }
+    },
+    {
+        "user_id": 95,
+        "date_range": "past_3_months",
+        "total_budget": 2097.49,
+        "total_expenses": 3056.59,
+        "categories": {
+            "Essentials": 591.48,
+            "Food & Entertainment": 883.45,
+            "Shopping": 564.88,
+            "Health & Wellness": 604.97,
+            "Other": 50.45
+        }
+    },
+    {
+        "user_id": 95,
+        "date_range": "past_6_months",
+        "total_budget": 3214.67,
+        "total_expenses": 4617.5,
+        "categories": {
+            "Essentials": 1314.78,
+            "Food & Entertainment": 748.74,
+            "Shopping": 1373.83,
+            "Health & Wellness": 1117.8,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 95,
+        "date_range": "past_year",
+        "total_budget": 3618.57,
+        "total_expenses": 4418.04,
+        "categories": {
+            "Essentials": 1209.69,
+            "Food & Entertainment": 700.64,
+            "Shopping": 775.75,
+            "Health & Wellness": 963.69,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 96,
+        "date_range": "past_2_weeks",
+        "total_budget": 4772.37,
+        "total_expenses": 4041.16,
+        "categories": {
+            "Essentials": 1174.58,
+            "Food & Entertainment": 1130.27,
+            "Shopping": 1197.9,
+            "Health & Wellness": 587.02,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 96,
+        "date_range": "past_month",
+        "total_budget": 1190.7,
+        "total_expenses": 1048.72,
+        "categories": {
+            "Essentials": 159.63,
+            "Food & Entertainment": 177.16,
+            "Shopping": 233.47,
+            "Health & Wellness": 164.28,
+            "Other": 176.39
+        }
+    },
+    {
+        "user_id": 96,
+        "date_range": "past_3_months",
+        "total_budget": 4255.91,
+        "total_expenses": 4785.06,
+        "categories": {
+            "Essentials": 1077.46,
+            "Food & Entertainment": 715.35,
+            "Shopping": 1352.4,
+            "Health & Wellness": 522.57,
+            "Other": 32.75
+        }
+    },
+    {
+        "user_id": 96,
+        "date_range": "past_6_months",
+        "total_budget": 3066.99,
+        "total_expenses": 4108.66,
+        "categories": {
+            "Essentials": 1190.76,
+            "Food & Entertainment": 410.88,
+            "Shopping": 1223.23,
+            "Health & Wellness": 788.13,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 96,
+        "date_range": "past_year",
+        "total_budget": 5504.73,
+        "total_expenses": 3198.3,
+        "categories": {
+            "Essentials": 649.87,
+            "Food & Entertainment": 891.71,
+            "Shopping": 667.88,
+            "Health & Wellness": 582.78,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 97,
+        "date_range": "past_2_weeks",
+        "total_budget": 5736.76,
+        "total_expenses": 3016.64,
+        "categories": {
+            "Essentials": 879.17,
+            "Food & Entertainment": 713.26,
+            "Shopping": 369.62,
+            "Health & Wellness": 509.14,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 97,
+        "date_range": "past_month",
+        "total_budget": 2063.63,
+        "total_expenses": 1450.98,
+        "categories": {
+            "Essentials": 413.69,
+            "Food & Entertainment": 354.65,
+            "Shopping": 430.71,
+            "Health & Wellness": 316.4,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 97,
+        "date_range": "past_3_months",
+        "total_budget": 5664.62,
+        "total_expenses": 8287.73,
+        "categories": {
+            "Essentials": 1605.38,
+            "Food & Entertainment": 925.0,
+            "Shopping": 2121.95,
+            "Health & Wellness": 970.38,
+            "Other": 1693.4
+        }
+    },
+    {
+        "user_id": 97,
+        "date_range": "past_6_months",
+        "total_budget": 1758.94,
+        "total_expenses": 1623.0,
+        "categories": {
+            "Essentials": 283.82,
+            "Food & Entertainment": 232.19,
+            "Shopping": 238.41,
+            "Health & Wellness": 162.47,
+            "Other": 451.62
+        }
+    },
+    {
+        "user_id": 97,
+        "date_range": "past_year",
+        "total_budget": 3337.57,
+        "total_expenses": 1946.56,
+        "categories": {
+            "Essentials": 513.85,
+            "Food & Entertainment": 367.24,
+            "Shopping": 449.71,
+            "Health & Wellness": 474.19,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 98,
+        "date_range": "past_2_weeks",
+        "total_budget": 6211.55,
+        "total_expenses": 7526.12,
+        "categories": {
+            "Essentials": 1119.76,
+            "Food & Entertainment": 2128.89,
+            "Shopping": 1833.62,
+            "Health & Wellness": 2105.37,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 98,
+        "date_range": "past_month",
+        "total_budget": 9979.06,
+        "total_expenses": 11161.86,
+        "categories": {
+            "Essentials": 2885.21,
+            "Food & Entertainment": 2992.78,
+            "Shopping": 1668.61,
+            "Health & Wellness": 1458.39,
+            "Other": 175.55
+        }
+    },
+    {
+        "user_id": 98,
+        "date_range": "past_3_months",
+        "total_budget": 4505.92,
+        "total_expenses": 3627.81,
+        "categories": {
+            "Essentials": 414.41,
+            "Food & Entertainment": 706.98,
+            "Shopping": 393.39,
+            "Health & Wellness": 522.09,
+            "Other": 525.9
+        }
+    },
+    {
+        "user_id": 98,
+        "date_range": "past_6_months",
+        "total_budget": 6778.92,
+        "total_expenses": 9594.75,
+        "categories": {
+            "Essentials": 2772.56,
+            "Food & Entertainment": 1346.67,
+            "Shopping": 1666.95,
+            "Health & Wellness": 2292.87,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 98,
+        "date_range": "past_year",
+        "total_budget": 1942.09,
+        "total_expenses": 1681.0,
+        "categories": {
+            "Essentials": 265.84,
+            "Food & Entertainment": 477.38,
+            "Shopping": 210.79,
+            "Health & Wellness": 196.88,
+            "Other": 361.81
+        }
+    },
+    {
+        "user_id": 99,
+        "date_range": "past_2_weeks",
+        "total_budget": 9723.99,
+        "total_expenses": 11060.17,
+        "categories": {
+            "Essentials": 2163.95,
+            "Food & Entertainment": 2685.07,
+            "Shopping": 1370.31,
+            "Health & Wellness": 2108.76,
+            "Other": 901.64
+        }
+    },
+    {
+        "user_id": 99,
+        "date_range": "past_month",
+        "total_budget": 9877.74,
+        "total_expenses": 7826.72,
+        "categories": {
+            "Essentials": 962.25,
+            "Food & Entertainment": 850.69,
+            "Shopping": 1136.31,
+            "Health & Wellness": 1452.48,
+            "Other": 1515.46
+        }
+    },
+    {
+        "user_id": 99,
+        "date_range": "past_3_months",
+        "total_budget": 3453.61,
+        "total_expenses": 4111.4,
+        "categories": {
+            "Essentials": 1161.68,
+            "Food & Entertainment": 612.81,
+            "Shopping": 563.26,
+            "Health & Wellness": 1064.06,
+            "Other": 209.3
+        }
+    },
+    {
+        "user_id": 99,
+        "date_range": "past_6_months",
+        "total_budget": 6687.54,
+        "total_expenses": 7597.06,
+        "categories": {
+            "Essentials": 1617.37,
+            "Food & Entertainment": 2136.47,
+            "Shopping": 1104.74,
+            "Health & Wellness": 1326.78,
+            "Other": 0
+        }
+    },
+    {
+        "user_id": 99,
+        "date_range": "past_year",
+        "total_budget": 8556.29,
+        "total_expenses": 8650.45,
+        "categories": {
+            "Essentials": 2159.22,
+            "Food & Entertainment": 1164.0,
+            "Shopping": 1644.36,
+            "Health & Wellness": 1387.12,
+            "Other": 918.33
+        }
+    },
+    {
+        "user_id": 100,
+        "date_range": "past_2_weeks",
+        "total_budget": 2155.86,
+        "total_expenses": 3159.12,
+        "categories": {
+            "Essentials": 501.93,
+            "Food & Entertainment": 401.27,
+            "Shopping": 842.98,
+            "Health & Wellness": 697.9,
+            "Other": 113.29
+        }
+    },
+    {
+        "user_id": 100,
+        "date_range": "past_month",
+        "total_budget": 7460.61,
+        "total_expenses": 9670.52,
+        "categories": {
+            "Essentials": 1138.74,
+            "Food & Entertainment": 1439.31,
+            "Shopping": 2217.98,
+            "Health & Wellness": 1555.68,
+            "Other": 1521.9
+        }
+    },
+    {
+        "user_id": 100,
+        "date_range": "past_3_months",
+        "total_budget": 7144.34,
+        "total_expenses": 7245.46,
+        "categories": {
+            "Essentials": 1686.05,
+            "Food & Entertainment": 802.22,
+            "Shopping": 769.47,
+            "Health & Wellness": 1558.8,
+            "Other": 467.28
+        }
+    },
+    {
+        "user_id": 100,
+        "date_range": "past_6_months",
+        "total_budget": 1943.94,
+        "total_expenses": 2641.71,
+        "categories": {
+            "Essentials": 664.39,
+            "Food & Entertainment": 309.65,
+            "Shopping": 516.61,
+            "Health & Wellness": 567.45,
+            "Other": 17.55
+        }
+    },
+    {
+        "user_id": 100,
+        "date_range": "past_year",
+        "total_budget": 4150.74,
+        "total_expenses": 4583.52,
+        "categories": {
+            "Essentials": 576.81,
+            "Food & Entertainment": 913.0,
+            "Shopping": 562.42,
+            "Health & Wellness": 545.3,
+            "Other": 822.2
+        }
+    }
+]
