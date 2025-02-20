@@ -1,17 +1,22 @@
+import base64
+import os
+import json
 import firebase_admin
 from firebase_admin import credentials, firestore
-import os
-from dotenv import load_dotenv
 
-load_dotenv()
+firebase_credentials = os.getenv("FIREBASE_CREDENTIALS")
 
-firebase_key_path = os.getenv("FIREBASE_CREDENTIALS")
+if firebase_credentials and os.path.exists(firebase_credentials):
+    cred = credentials.Certificate(firebase_credentials)
+else:
+    firebase_credentials_base64 = os.getenv("FIREBASE_CREDENTIALS_BASE64")
+    if not firebase_credentials_base64:
+        raise ValueError("No Firebase credentials found!")
 
-if not firebase_key_path:
-    raise ValueError("FIREBASE_CREDENTIALS not found. Set it in .env file.")
+    decoded_credentials = json.loads(base64.b64decode(firebase_credentials_base64).decode("utf-8"))
+    cred = credentials.Certificate(decoded_credentials)
 
 if not firebase_admin._apps:
-    cred = credentials.Certificate(firebase_key_path)
     firebase_admin.initialize_app(cred)
 
 db = firestore.client()
