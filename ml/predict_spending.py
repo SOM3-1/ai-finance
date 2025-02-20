@@ -118,5 +118,7 @@ def predict_spending(
         "predicted_future_expenses": round(predicted_expenses, 2),
         "predicted_savings_next_month": round(predicted_savings_next_month, 2),
         "abnormal_spending_alerts": abnormal_spending_alerts,
-        "warnings": warnings_list
+        "warnings": warnings_list,
+        "total_budget": total_budget,
+        "categories": categories
     }
