@@ -4,13 +4,16 @@ import xgboost as xgb
 from sklearn.model_selection import train_test_split
 from pathlib import Path
 
-
-
 def main():
+    resources_path = Path(__file__).resolve().parent.parent / "resources"
+    dataset_path = resources_path / "financial_dataset.json"
+    model_path = resources_path / "ai_spending_model.json"
 
-    dataset_path = Path(__file__).resolve().parent.parent / "resources" / "ai_spending_model.json"
+    if not dataset_path.exists():
+        raise FileNotFoundError(f"Dataset not found at {dataset_path}")
+    
     with open(dataset_path, "r") as f:
-        data = json.load(f) 
+        data = json.load(f)
 
     df = pd.json_normalize(data)
 
@@ -27,15 +30,23 @@ def main():
     df["savings"] = df["total_budget"] - df["total_expenses"]
     df["savings_percentage"] = (df["savings"] / df["total_budget"]) * 100
 
-    df["predicted_future_expenses"] = df.groupby("user_id")["total_expenses"].shift(-1)
+    # 💡 NEW: Include historical features
+    df["all_time_expenses"] = df.groupby("user_id")["total_expenses"].cumsum()
+    df["all_time_budget"] = df.groupby("user_id")["total_budget"].cumsum()
+    df["historical_budget_utilization"] = df["all_time_expenses"] / df["all_time_budget"]
 
-    df["predicted_future_expenses"].fillna(df["total_expenses"], inplace=True)
+    # Predict future spending
+    df["predicted_future_expenses"] = df.groupby("user_id")["total_expenses"].shift(-1)
+    df["predicted_future_expenses"] = df["predicted_future_expenses"].fillna(df["total_expenses"])
 
     features = [
         "total_budget",
         "total_expenses",
         "budget_utilization",
-        "savings_percentage"
+        "savings_percentage",
+        "all_time_expenses", 
+        "all_time_budget",  
+        "historical_budget_utilization" 
     ]
     target = "predicted_future_expenses"
 
@@ -60,8 +71,8 @@ def main():
     mae = (abs(preds - y_test)).mean()
     print(f"Mean Absolute Error: {mae:.2f}")
 
-    model.save_model("ai_spending_model.json")
-    print("✅ Model training complete. Saved as ai_spending_model.json")
+    model.save_model(str(model_path))
+    print("Model training complete. Saved as ai_spending_model.json")
 
 if __name__ == "__main__":
     main()
