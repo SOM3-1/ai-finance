@@ -4,9 +4,11 @@ import xgboost as xgb
 from sklearn.model_selection import train_test_split
 from pathlib import Path
 
+
+
 def main():
 
-    dataset_path = Path("financial_dataset.json")
+    dataset_path = Path(__file__).resolve().parent.parent / "resources" / "ai_spending_model.json"
     with open(dataset_path, "r") as f:
         data = json.load(f) 
 

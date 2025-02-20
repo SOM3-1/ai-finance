@@ -4,3 +4,5 @@ pandas
 numpy
 scikit-learn
 xgboost
+firebase-admin
+python-dotenv
