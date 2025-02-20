@@ -75,3 +75,4 @@ def get_transactions_and_budgets(user_id, date_range):
         "all_time_budget": all_budget,
         "all_time_categories": all_categories
     }
+
