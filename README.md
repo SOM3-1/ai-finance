@@ -57,6 +57,18 @@ The API **compares past trends** with predicted spending and provides:
   "date_range": "this_month"
 }
 ```
+---
+
+## **Date Range Options**
+The `date_range` parameter in the API request allows users to specify the time period for financial analysis. The available predefined values are:
+
+- **`this_month`**: Analyzes expenses from the start of the current month to the present date.
+- **`past_month`**: Fetches data for the full previous month.
+- **`past_3_months`**: Retrieves transactions from the last three months.
+- **`past_6_months`**: Retrieves transactions from the last six months.
+- **`past_year`**: Analyzes financial data for the past year.
+
+---
 
 #### **Response Format**
 ```json
