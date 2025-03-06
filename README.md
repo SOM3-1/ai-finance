@@ -154,7 +154,7 @@ pip install -r requirements.txt
 
 ### **4. Start the FastAPI Server**
 ```bash
-uvicorn backend.ai_api:app --host 0.0.0.0 --port 8000 --reload
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 ### **5. Test API Using `cURL`**
@@ -176,15 +176,18 @@ This will display the API response.
 ## **Project Structure**
 ```
 ai-finance/
-│── backend/
-│   │── ai_api.py       # FastAPI main entry file
-│   │── ml/
-│   │   │── predict_spending.py  # XGBoost model & prediction logic
-│   │── utils/
-│   │   │── firestore.py   # Firestore database interaction
+│── ml/
+│   │── predict_spending.py      
+│   │── train_model.py
+│── routes/
+│   │── ai_api.py       
+│   │── prediction.py
 │── resources/
 │   │── ai_spending_model.json  # Pre-trained XGBoost model
+│── utils/
+│   │── firestore.py  
 │── requirements.txt
+│── requirements.txt # FastAPI main entry file
 │── README.md
 ```
 
